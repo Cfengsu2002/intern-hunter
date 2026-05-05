@@ -251300,7 +251300,7 @@
     "company_name": "LabCorp",
     "id": "82620b43-1609-4bf7-8f95-b172054c6cdd",
     "title": "Intern Data Science and Artificial Intelligence",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -267965,7 +267965,7 @@
     "company_name": "G-Research",
     "id": "83faf8a0-8878-484a-9753-945f21c46994",
     "title": "AI Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026",
       "Summer 2026"
@@ -273796,7 +273796,7 @@
     "company_name": "The Aerospace Corporation",
     "id": "d8dc5c28-c65b-4b8b-a6f1-27e0c10b6a26",
     "title": "Data Platforms Engineering Grad Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -360474,9 +360474,9 @@
     ]
   },
   {
-    "date_updated": 1773648845,
+    "date_updated": 1777968910,
     "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -373428,9 +373428,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1774258509,
+    "date_updated": 1777968910,
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -401571,7 +401571,7 @@
     "company_name": "TikTok",
     "id": "262de8fa-292e-4d47-9bd2-bbf3befe8b30",
     "title": "Data Analyst Project Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -408790,7 +408790,7 @@
     "company_name": "Booz Allen",
     "id": "7467230a-7ee0-4f13-a74c-ec40db9b3a6d",
     "title": "University - Full Stack Developer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -416297,9 +416297,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1776348535,
+    "date_updated": 1777968910,
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -416458,9 +416458,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1776349544,
+    "date_updated": 1777968910,
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -429723,7 +429723,7 @@
     "company_name": "AI Fund",
     "id": "62c54395-f8f5-49b5-9697-8ea6c693ee31",
     "title": "Visiting Engineer: CAD Design AI Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -431006,7 +431006,7 @@
     "company_name": "GE Appliances",
     "id": "fb7edf75-7997-4879-ad19-762c3cff7ce6",
     "title": "Software Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -431649,7 +431649,7 @@
     "company_name": "Revvity",
     "id": "951b1b78-eb55-424e-946a-6760af934327",
     "title": "Procurement and Data Management Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -436495,7 +436495,7 @@
     "company_name": "Planet",
     "id": "610eea04-3bb4-4423-b243-6f822a05b85b",
     "title": "Space Operations Associate Intern - Superdove Mission",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -436519,7 +436519,7 @@
     "company_name": "Elsevier",
     "id": "91e54ebb-5337-4a63-920b-2eac70413c47",
     "title": "Acquisitions Editorial Assistant Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -436858,9 +436858,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1777638578,
+    "date_updated": 1777968910,
     "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -437279,7 +437279,7 @@
     "company_name": "MUBI",
     "id": "afda33ed-c25b-4bcb-9bd7-a14d3fb2d0f2",
     "title": "AI Transformation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -437394,7 +437394,7 @@
     "company_name": "Primetals Technologies",
     "id": "15131515-6720-41e9-9f5d-bfcd46f7912e",
     "title": "Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -438833,9 +438833,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1777890534,
+    "date_updated": 1777968910,
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -440465,9 +440465,9 @@
     "source": "Simplify",
     "category": "Software",
     "company_name": "Mechanize",
-    "id": "1dca79e6-3225-4078-85fd-4867eededdfc",
+    "id": "d42b26ee-99ce-44ab-96b5-8554a11325da",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -440730,5 +440730,28 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Lumentum",
+    "id": "b938f9d1-81bb-4817-b0b5-e1a2b28f3c22",
+    "title": "Chip Design Verification Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777972502,
+    "date_posted": 1777972387,
+    "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/United-Kingdom---Towcester-Northamptonshire/Chip-Design-Verification-Intern_2026572",
+    "locations": [
+      "Daventry, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Lumentum",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
