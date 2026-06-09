@@ -229880,7 +229880,7 @@
     "company_name": "Truveta",
     "id": "9d21429a-ec03-4ab5-8c5f-dccc28783311",
     "title": "Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -361085,7 +361085,7 @@
     "company_name": "Teledyne",
     "id": "7befcb18-47ed-4ad9-b0ca-a3f4514bfb1c",
     "title": "Electronics Technician Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -362529,7 +362529,7 @@
     "company_name": "Oracle",
     "id": "7e89dbef-105d-4b7c-a2be-104d6384b7c6",
     "title": "Advanced Degree Software Engineer - Database Technologies",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -363073,7 +363073,7 @@
     "company_name": "Ciena",
     "id": "648d04c0-91d8-40aa-9c98-4ee22c3e139c",
     "title": "Hardware Design Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -369423,7 +369423,7 @@
     "company_name": "TheGuarantors",
     "id": "15940e4d-d0db-45c4-a255-0626fdac14ac",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -377415,7 +377415,7 @@
     "company_name": "Genentech",
     "id": "5159e1cb-4d06-457c-bc29-b9c3fc877cdc",
     "title": "Prescient Frontier Research Intern - Gsab",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -379664,7 +379664,7 @@
     "company_name": "Fidelity Investments",
     "id": "8ec64e5f-4755-45a9-ae9e-abd13cd712b0",
     "title": "Undergraduate Software Engineer - Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -381517,7 +381517,7 @@
     "company_name": "American University",
     "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
     "title": "Graduate Event Data Assistant - Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -381771,7 +381771,7 @@
     "company_name": "CIBC",
     "id": "48140a30-96e6-4e0d-a71f-7b192a2e4da3",
     "title": "Machine Learning Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -385926,7 +385926,7 @@
     "company_name": "Rippling",
     "id": "7df6766d-b43b-464c-a03e-68387c5ffb37",
     "title": "Software Engineer Intern - Backend Focused",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -387871,7 +387871,7 @@
     "company_name": "Generac",
     "id": "59330e6d-91d5-4708-a9e1-00db1a90d871",
     "title": "GPS Apprentice - Electrical",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -388028,7 +388028,7 @@
     "company_name": "Financial Ombudsman Service",
     "id": "3faeeaa9-9eb3-4227-90e3-4999a5388381",
     "title": "Data Analyst Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -388166,7 +388166,7 @@
     "company_name": "Iron Mountain",
     "id": "f9c884e2-2872-4b5c-a69e-3333c788650c",
     "title": "Machine Learning Intern - Machine Learning",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -388349,7 +388349,7 @@
     "company_name": "Harvard University",
     "id": "1c6ef67f-503b-4458-b0f8-c527be2f8f6d",
     "title": "Predoctoral Research Associate Intern - Economics and Political Economy",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -388600,7 +388600,7 @@
     "company_name": "Manulife Financial",
     "id": "4a7439de-3e92-4671-bb7e-522ab3f71490",
     "title": "Analyst Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -388917,5 +388917,74 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Zoox",
+    "id": "a094bbba-b159-429f-905a-e52b9cadc157",
+    "title": "Student Worker Automation & Behavioral Science Engineer",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1780985509,
+    "date_posted": 1780985291,
+    "url": "https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e/apply",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoox",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "47768da2-8643-4881-8249-a78543064605",
+    "title": "AI Software Engineer Intern - Transaction Platform",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1780996499,
+    "date_posted": 1780996220,
+    "url": "https://lifeattiktok.com/search/7646621925436131637",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "NEC Software Solutions",
+    "id": "72d63b93-036b-4d83-985e-4292d1521944",
+    "title": "Software Developer Apprentice",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1780995915,
+    "date_posted": 1780995701,
+    "url": "https://jobs.smartrecruiters.com/NECSWS/744000131085999",
+    "locations": [
+      "Bracknell, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/NEC-Software-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
