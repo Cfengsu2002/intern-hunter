@@ -362144,7 +362144,7 @@
     "company_name": "Werfen",
     "id": "5924cee1-f277-43ac-aa58-685050b2170e",
     "title": "Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -371231,7 +371231,7 @@
     "company_name": "NVIDIA",
     "id": "f0577fa0-c379-40cc-885e-beebb1742e22",
     "title": "PhD Data Generation and User Simulation Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -376826,7 +376826,7 @@
     "company_name": "Marsh",
     "id": "c6fb7bb2-6ca1-431b-bb96-398422ba1a8d",
     "title": "Oliver Wyman Analyst Internship - Data & Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -379022,7 +379022,7 @@
     "company_name": "General Motors",
     "id": "ab1efada-89cd-43a4-bc14-b9e768b7d6be",
     "title": "Vehicle Experience Software Developer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -379664,7 +379664,7 @@
     "company_name": "Fidelity Investments",
     "id": "8ec64e5f-4755-45a9-ae9e-abd13cd712b0",
     "title": "Undergraduate Software Engineer - Software Engineer",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -385679,7 +385679,7 @@
     "company_name": "Nationwide Children's Hospital",
     "id": "7146de68-f772-462a-b679-f15f88001bd3",
     "title": "Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -385926,7 +385926,7 @@
     "company_name": "Rippling",
     "id": "7df6766d-b43b-464c-a03e-68387c5ffb37",
     "title": "Software Engineer Intern - Backend Focused",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -386136,7 +386136,7 @@
     "company_name": "SOTI",
     "id": "eedc3481-24f8-4e24-ab3d-8ae10a4eb5ed",
     "title": "Web Producer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -386319,7 +386319,7 @@
     "company_name": "Air Liquide",
     "id": "bcb6535d-0198-4fb9-9d00-f3c1fb239b4c",
     "title": "Clinical Data Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -387940,7 +387940,7 @@
     "company_name": "Duke University",
     "id": "c1b14eaf-e140-4275-b7b5-dee377f8421d",
     "title": "Administrative Intern - Sanford School of Public Policy",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -388214,7 +388214,7 @@
     "company_name": "Microsoft",
     "id": "c67a3efa-2ec3-488c-89f4-2514b853209d",
     "title": "Data Center Technician Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -388347,9 +388347,9 @@
     "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Harvard University",
-    "id": "1c6ef67f-503b-4458-b0f8-c527be2f8f6d",
+    "id": "57edc559-ec4d-413a-a0b2-52fe18bbd285",
     "title": "Predoctoral Research Associate Intern - Economics and Political Economy",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -388901,7 +388901,7 @@
     "company_name": "General Motors",
     "id": "82755bc6-9e28-4b40-a157-d3d1d46a92ae",
     "title": "Engineering Operations Co-op - Equipment and Maintenance Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -388986,5 +388986,54 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cenovus Energy",
+    "id": "c37d74af-b07e-4201-83c5-71447ff00de4",
+    "title": "Student Strategy and Business Performance",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1780998576,
+    "date_posted": 1780956611,
+    "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Strategy-and-Business-Performance--Calgary--September-2026-_R-410708",
+    "locations": [
+      "Calgary, AB, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Cenovus-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Robert Bosch Venture Capital",
+    "id": "dc49cbf7-d6af-4a4d-aab5-0b1b99434349",
+    "title": "Hardware & Embedded Research Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1781014157,
+    "date_posted": 1781014018,
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131150005",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Bosch",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
   }
 ]
