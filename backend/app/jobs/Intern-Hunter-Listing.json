@@ -24642,7 +24642,7 @@
     "company_name": "Tencent",
     "id": "2154dbb1-0a02-4ce3-8bc5-6fbe782e9d84",
     "title": "Research Internship - Reinforcement Learning for Large Foundation Models",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -33555,7 +33555,7 @@
     "company_name": "Regal Rexnord",
     "id": "4456cad6-e757-46c2-8a29-5cbcfdbc02dd",
     "title": "Application Engineering Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2025"
     ],
@@ -102180,7 +102180,7 @@
     "company_name": "Tencent",
     "id": "eb14174f-2e4d-4c27-90c6-67df2ddef557",
     "title": "Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2026"
     ],
@@ -145438,7 +145438,7 @@
     "company_name": "Tencent",
     "id": "3cf4233b-3b89-4258-991d-1885b771f9e6",
     "title": "Research Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -146760,7 +146760,7 @@
     "company_name": "Tencent",
     "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
     "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2026"
     ],
@@ -149962,7 +149962,7 @@
     "company_name": "Booz Allen",
     "id": "69d2783d-64a2-41d0-b380-8e7b6dcf7ca7",
     "title": "University – Games Systems Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -182755,7 +182755,7 @@
     "company_name": "Tencent",
     "id": "c42f018d-7413-47dd-900e-58cb7e97b198",
     "title": "Multimedia Codec Development Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -183380,7 +183380,7 @@
     "company_name": "University of Texas - Austin",
     "id": "6e5cee30-3f8a-404e-961c-556ec227c185",
     "title": "Resa 1 - Texus",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -252531,7 +252531,7 @@
     "company_name": "Tencent",
     "id": "66572abf-79bc-4959-81dc-2d51e16c64a4",
     "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -252554,7 +252554,7 @@
     "company_name": "Tencent",
     "id": "49ea6477-d2a6-4517-b1db-910fa56415d7",
     "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -278250,7 +278250,7 @@
     "company_name": "Varda Space",
     "id": "524a758b-b1a2-4a02-9ff9-dcda097b1187",
     "title": "Automation & Test Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -319614,7 +319614,7 @@
     "company_name": "Wash U",
     "id": "c478f30c-eba8-48c9-a814-9ed93ee9ac72",
     "title": "Software Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -320500,7 +320500,7 @@
     "company_name": "Tencent",
     "id": "5d7f71ac-5019-4377-9a96-d95b20a6befe",
     "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -322575,7 +322575,7 @@
     "company_name": "Plexus",
     "id": "518e148f-3401-4468-be86-69d38a4cf484",
     "title": "Digital Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -328146,7 +328146,7 @@
     "company_name": "Regal Rexnord",
     "id": "cbab2238-fe0a-4455-883d-7e0d95e8d4fc",
     "title": "Application Engineering Co-Op",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -330105,7 +330105,7 @@
     "company_name": "Tencent",
     "id": "ba133a6e-7d68-423a-a0ab-6235909272c2",
     "title": "Game Research & Development Intern - Engine Research",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -330332,7 +330332,7 @@
     "company_name": "Tencent",
     "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
     "title": "Game Research & Development Intern - Engine Research",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -330950,7 +330950,7 @@
     "company_name": "Tencent",
     "id": "6e53b9de-07c4-4545-b612-707fca641b88",
     "title": "Game Research & Development Intern - Engine Research",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -336955,7 +336955,7 @@
     "company_name": "Intel",
     "id": "e18b5659-3658-49dd-a554-9ba2b49123a9",
     "title": "AI Software Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -348486,7 +348486,7 @@
     "company_name": "Regal Rexnord",
     "id": "50d55538-3ab4-43b4-bca2-ee08a31588bf",
     "title": "Electronics Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -362839,7 +362839,7 @@
     "company_name": "Brunswick",
     "id": "a2b670ca-0966-45f7-9a77-1365adca98b8",
     "title": "Computer Graphics Software Developer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -363161,7 +363161,7 @@
     "company_name": "American University",
     "id": "ce1c8960-feb9-4664-a95b-bf69e14b0f14",
     "title": "Research Assistant - Student",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -368635,7 +368635,7 @@
     "company_name": "FHLBank Topeka",
     "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
     "title": "Financial Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -372140,7 +372140,7 @@
     "company_name": "Fidelity Investments",
     "id": "8ec64e5f-4755-45a9-ae9e-abd13cd712b0",
     "title": "Undergraduate Software Engineer - Software Engineer",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -372281,7 +372281,7 @@
     "company_name": "Boys Town",
     "id": "d9fcc633-0100-463e-b6d7-1abdfdda5a5f",
     "title": "Artificial Intelligence & Machine Learning Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -372710,7 +372710,7 @@
     "company_name": "ServiceNow",
     "id": "e5a173bc-a66a-4551-b190-093e94c657ac",
     "title": "Servicenow Futures Summit Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -372936,7 +372936,7 @@
     "company_name": "American University",
     "id": "523ae494-45d3-4223-b476-2c169758a222",
     "title": "Research Assistant - Student",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -373993,7 +373993,7 @@
     "company_name": "American University",
     "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
     "title": "Graduate Event Data Assistant - Student",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -374224,7 +374224,7 @@
     "company_name": "ServiceNow",
     "id": "a321ad73-583a-4203-bee3-a9fe75923346",
     "title": "Futures Summit Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -376642,7 +376642,7 @@
     "company_name": "Tencent",
     "id": "f083247a-cf19-43ae-8834-7db704881503",
     "title": "Multimedia Development Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -381377,7 +381377,7 @@
     "company_name": "General Motors",
     "id": "82755bc6-9e28-4b40-a157-d3d1d46a92ae",
     "title": "Engineering Operations Co-op - Equipment and Maintenance Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -383420,7 +383420,7 @@
     "company_name": "Fidelity Investments",
     "id": "38cf5dc8-3372-4b98-909f-8f5f6e4e5baa",
     "title": "Undergraduate Software Engineer - Leap: Software Engineer",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -384722,7 +384722,7 @@
     "company_name": "Intel",
     "id": "438a49bd-1732-4815-b2b2-e048f205949f",
     "title": "AI Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -385154,7 +385154,7 @@
     "company_name": "Pennsylvania State University",
     "id": "df9cfb0a-2665-4639-bfb4-b6b6872f0f82",
     "title": "Research and Development Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -386470,5 +386470,47 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Mercer University",
+    "id": "33fd521e-474f-45b3-851e-27d577a78a8b",
+    "title": "Archival Digitization",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1781359894,
+    "date_posted": 1781359455,
+    "url": "https://merceruniversity.wd1.myworkdayjobs.com/student/job/Macon-Campus/Archival-digitization_JR102883",
+    "locations": [
+      "Macon, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Mercer-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Pennsylvania State University",
+    "id": "87b177fa-ff7d-4277-b3da-19b592c48505",
+    "title": "Science",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1781373097,
+    "date_posted": 1781360933,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Berks/Part-Time---Science---Summer-Research_REQ_0000079403-1",
+    "locations": [
+      "Reading, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
