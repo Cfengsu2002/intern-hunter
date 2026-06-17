@@ -310180,7 +310180,7 @@
     "company_name": "TD Bank",
     "id": "1f7bf76d-9051-41af-9a9c-2f3c7f237076",
     "title": "Portfolio Analytics Developer Intern/Co-Op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -361170,7 +361170,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "afdac77d-d07b-4aaa-b8e7-16e16c52ed69",
     "title": "Machine Learning Software Engineer Co-op - Machine Learning Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -371117,7 +371117,7 @@
     "company_name": "Instead",
     "id": "ba8c4dd2-2dd5-48f2-a9c4-0c716b61b1db",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -377987,7 +377987,7 @@
     "company_name": "Walleye Capital",
     "id": "3ae897a1-0ad7-410e-8882-d492c1f9e19a",
     "title": "Risk Technology Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -378011,7 +378011,7 @@
     "company_name": "Walleye Capital",
     "id": "37f29e78-6188-4883-8606-42dcbabb6448",
     "title": "Volatility Trading Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -378202,7 +378202,7 @@
     "company_name": "Walleye Capital",
     "id": "cef3f7ab-adae-4d4b-88d9-eafc26e3e8f9",
     "title": "Quantic – Quantitative Researcher Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -378246,7 +378246,7 @@
     "company_name": "Walleye Capital",
     "id": "7b479664-d0af-4690-be2a-c9ba5d81314a",
     "title": "Central Equity Quant Research Intern - Ceqr",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -378350,7 +378350,7 @@
     "company_name": "Walleye Capital",
     "id": "c32147c4-e359-49f8-8d2e-d52f0a1646d8",
     "title": "Investment Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -378418,7 +378418,7 @@
     "company_name": "Walleye Capital",
     "id": "6a61710a-02c6-4915-a7f3-863dbf8c835b",
     "title": "PhD Quantitative Researcher Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -378441,7 +378441,7 @@
     "company_name": "Walleye Capital",
     "id": "28053adc-4960-4b2a-8386-71e1aba8148e",
     "title": "Quantitative Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -380781,7 +380781,7 @@
     "company_name": "General Motors",
     "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
     "title": "Research and Development Intern - Research & Development: AI/ML",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -381577,7 +381577,7 @@
     "company_name": "Together AI",
     "id": "27f1bae4-fe71-4489-96fd-9707e0ba1cfb",
     "title": "Systems Research Engineer Intern - GPU Programming",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -382056,7 +382056,7 @@
     "company_name": "mthree",
     "id": "0f16bd26-68b4-45a1-9c02-8a689c8be9f6",
     "title": "Technology Talent Programme",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -384307,5 +384307,51 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Texas Instruments",
+    "id": "28211e9c-64fa-433f-b304-32c0827c2803",
+    "title": "Engineering Technician Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1781676721,
+    "date_posted": 1781676236,
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010550",
+    "locations": [
+      "Dallas, TX",
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Texas-Instruments",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Boeing Company",
+    "id": "0a7df5ea-d3fd-4bcd-832a-df34e5ac3d86",
+    "title": "Circuit Card Assembly Specialist Apprentice",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1781677368,
+    "date_posted": 1781676626,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Circuit-Card-Assembly-Specialist-Apprenticeship_JR2026515181",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
