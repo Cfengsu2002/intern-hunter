@@ -2,131 +2,6 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
-    "company_name": "NTT Data",
-    "id": "c35a0e67-4577-4d19-bdeb-2068aa25830d",
-    "title": "Data Analytics Intern - ",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761642434,
-    "date_posted": 1761642434,
-    "url": "https://careers-inc.nttdata.com/job/Plano-Data-Analytics-Intern-TX/1337822100/?ats=successfactors",
-    "locations": [
-      "Plano, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/NTT-Data",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Bloom Energy",
-    "id": "6dda1fe7-f498-4238-ba7b-fc3db6a4fb8e",
-    "title": "Commercial Operations – Data Center Intern",
-    "active": false,
-    "terms": [
-      "Summer 2025"
-    ],
-    "date_updated": 1761644203,
-    "date_posted": 1761644203,
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Commercial-Operations---Data-Center-Intern_JR-20753",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Bloom-Energy",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Cadence Design Systems",
-    "id": "fa7843f1-7413-45dc-a9a6-c2b2848bb9a2",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761654101,
-    "date_posted": 1761654101,
-    "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Software-Engineer-Intern_R51695-2",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Blue Origin",
-    "id": "f37865a3-2377-4049-a582-75c3fc52d4b2",
-    "title": "Intern Conversion: – Early Career - Avionics Software Engineer I",
-    "active": false,
-    "terms": [
-      "Fall 2026"
-    ],
-    "date_updated": 1761658772,
-    "date_posted": 1761658772,
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Intern-Conversion---Early-Career--Avionics-Software-Engineer-I_R54003",
-    "locations": [
-      "Seattle, WA",
-      "Washington, DC",
-      "LA",
-      "Cape Canaveral, FL",
-      "Phoenix, AZ",
-      "Denver, CO",
-      "Huntsville, AL",
-      "Van Horn, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Blue-Origin",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Cadence Design Systems",
-    "id": "fdcadb98-24bc-4aff-82ba-b2acfd19222e",
-    "title": "Post Silicon Electrical Validation Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761654021,
-    "date_posted": 1761654021,
-    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Post-Silicon-Electrical-Validation-Intern_R51674-1",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
     "company_name": "VSP Vision",
     "id": "5e8cb277-43e4-4b23-8d43-e3f7a10f3539",
     "title": "Internship - AI-Machine Learning Development Engineer",
@@ -3506,27 +3381,6 @@
       "Austin, TX",
       "Redmond, WA",
       "Sunnyvale, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Meta",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Meta",
-    "id": "95477a6a-5761-4a10-8482-cc1319fdb7e3",
-    "title": "Research Scientist Intern - Interactive Physics Simulations - PhD",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1762163685,
-    "date_posted": 1761659948,
-    "url": "https://www.metacareers.com/jobs/1289101459634616",
-    "locations": [
-      "Redmond, WA"
     ],
     "company_url": "https://simplify.jobs/c/Meta",
     "is_visible": true,
@@ -10478,48 +10332,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Astera Labs",
-    "id": "874b35c0-4669-41e6-b998-50b57bd5f2c2",
-    "title": "Formal Verification Engineer – Intern 2026",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1761652346,
-    "date_posted": 1761652346,
-    "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4605585005",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/AsteraLabs",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Cadence Design Systems",
-    "id": "caf1f5eb-2897-4dc3-831d-0575aefa6250",
-    "title": "Product Engineering Intern - Genus Synthesis Solution",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761657507,
-    "date_posted": 1761657507,
-    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Product-Engineering-Intern---Genus-Synthesis-Solution_R51690-1",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "Software",
     "company_name": "The New York Times",
     "id": "b1fa5aa7-07d2-466e-9c09-6d982a553051",
@@ -15456,175 +15268,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "NXP Semiconductors",
-    "id": "ece73df3-d803-4d29-af76-6105cfd3f329",
-    "title": "Digital Design Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761660573,
-    "date_posted": 1761660573,
-    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Design-Intern---Summer-2026_R-10059991-1",
-    "locations": [
-      "Chandler, AZ"
-    ],
-    "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Boson Ai",
-    "id": "e6450ce0-c0b2-4433-9d87-431b44b1b70d",
-    "title": "Mscac Internship",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761659408,
-    "date_posted": 1761659408,
-    "url": "https://jobs.lever.co/bosonai/8177a757-9901-44f5-9a4a-2bfc7f463619/apply",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/0a12c14b-a812-45a9-a0c2-a61a2802d9f2",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Ciena",
-    "id": "79f0219b-7b5f-4681-bca2-8e7c43a92409",
-    "title": "Hardware Design Engineer Intern - Spring 2026",
-    "active": false,
-    "terms": [
-      "Winter 2026",
-      "Spring 2026"
-    ],
-    "date_updated": 1761659210,
-    "date_posted": 1761659210,
-    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Hardware-Design-Engineer-Intern--Spring-2026-_R029291",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "company_url": "https://simplify.jobs/c/Ciena",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Cadence Design Systems",
-    "id": "c23cdd65-1592-4be0-84b9-c8530d96bfed",
-    "title": "Product Engineering Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761657550,
-    "date_posted": 1761657550,
-    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Product-Engineering-Intern_R51691",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Cadence Design Systems",
-    "id": "df707e12-32af-43cd-a81a-d42d81920402",
-    "title": "Analog Layout Design Summer 2026 Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761654027,
-    "date_posted": 1761654027,
-    "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/CARY/Analog-Layout-Design-Summer-2026-Intern_R51676",
-    "locations": [
-      "Morrisville, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Cadence Design Systems",
-    "id": "ae1cf32a-3b93-49ae-8f1b-4e135ad5defb",
-    "title": "Software Engineer Intern - C/C++ - Python",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761654040,
-    "date_posted": 1761654040,
-    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Software-Engineer-Intern_R51696-1",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Quant",
-    "company_name": "JM Family",
-    "id": "9cd23225-0795-44e1-b40c-0f1c9a106f43",
-    "title": "Investment Analyst Intern - Investment Team - Portfolio Management",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761840639,
-    "date_posted": 1761652699,
-    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Investment-Analyst-Intern_JR104242",
-    "locations": [
-      "Deerfield Beach, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/JM-Family-Enterprises",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "JM Family",
-    "id": "0b73b726-1add-4880-b979-8af47da9284e",
-    "title": "Automation Analyst Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761652702,
-    "date_posted": 1761652702,
-    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Automation-Analyst-Intern_JR104178",
-    "locations": [
-      "Deerfield Beach, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/JM-Family-Enterprises",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "JM Family",
     "id": "b7fd8b1a-96f1-4907-9f8b-2bbac1c088c2",
@@ -15646,176 +15289,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Astera Labs",
-    "id": "c4624142-a4db-48b4-8a37-6d97f1f9ac45",
-    "title": "Design Verification Engineer – Intern 2026",
-    "active": true,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761652319,
-    "date_posted": 1761652319,
-    "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/AsteraLabs",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Astera Labs",
-    "id": "9412f673-cab2-42d1-9c49-3ef342ca7a12",
-    "title": "Design Verification Engineer Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761942827,
-    "date_posted": 1761652328,
-    "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4605601005",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/AsteraLabs",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Astera Labs",
-    "id": "8e550922-a16f-45a6-9610-419435d00f12",
-    "title": "Field Application Engineer Intern - 2026",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761652328,
-    "date_posted": 1761652328,
-    "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4596286005",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/AsteraLabs",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Astera Labs",
-    "id": "1d80a1df-6557-427b-8e92-f3380038cd16",
-    "title": "Firmware Engineer – Internship - Vancouver",
-    "active": true,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761652332,
-    "date_posted": 1761652332,
-    "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/AsteraLabs",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Astera Labs",
-    "id": "1bbab075-48d0-4f97-9795-748ebc88e790",
-    "title": "Digital Design Engineer – Internship",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761652355,
-    "date_posted": 1761652355,
-    "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4605634005",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/AsteraLabs",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Dialpad",
-    "id": "df984b37-2d51-460a-9038-ce99577f21b6",
-    "title": "Co-op Software Engineer - Fullstack",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1761650372,
-    "date_posted": 1761650372,
-    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8229495002",
-    "locations": [
-      "Kitchener, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Dialpad",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Dialpad",
-    "id": "9f1a74a7-2739-4ff9-ac54-ed2db0f332b1",
-    "title": "Co-op Software Engineer - Backend",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1761650353,
-    "date_posted": 1761650353,
-    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8229464002",
-    "locations": [
-      "Kitchener, ON, Canada",
-      "Vancouver, BC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Dialpad",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Dialpad",
-    "id": "4fe9844d-1f5e-42f5-99de-649e3349f4b6",
-    "title": "Co-op Software Engineer - Front-End",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1761650340,
-    "date_posted": 1761650340,
-    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8229472002",
-    "locations": [
-      "Kitchener, ON, Canada",
-      "Vancouver, BC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Dialpad",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "CAE",
     "id": "063f1704-3297-491c-9e84-79a3d7ce925c",
@@ -15831,153 +15304,6 @@
       "Montréal, QC, Canada"
     ],
     "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Nike",
-    "id": "4bf6709c-11b2-4a83-9ad6-0e9933a1a564",
-    "title": "Nike – Inc. Product Business Integration Undergraduate Internship",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761647699,
-    "date_posted": 1761647699,
-    "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Nike--Inc-Product-Business-Integration-Undergraduate-Internship_R-73106",
-    "locations": [
-      "Beaverton, OR"
-    ],
-    "company_url": "https://simplify.jobs/c/Nike",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Nike",
-    "id": "3ddacb07-2b35-4059-84ea-d63138db6ae6",
-    "title": "Nike – Inc. Product Business Integration Graduate Internship",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761647704,
-    "date_posted": 1761647704,
-    "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Nike--Inc-Product-Business-Integration-Graduate-Internship_R-73105",
-    "locations": [
-      "Beaverton, OR"
-    ],
-    "company_url": "https://simplify.jobs/c/Nike",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Attention Arc",
-    "id": "b03598f2-0c27-4dcb-b551-63b016e376f2",
-    "title": "Intern – Data - ",
-    "active": false,
-    "terms": [
-      "Summer 2025"
-    ],
-    "date_updated": 1761647238,
-    "date_posted": 1761647238,
-    "url": "https://job-boards.greenhouse.io/attentionarc/jobs/7009226",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "company_url": "https://simplify.jobs/c/Attention-Arc",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Advanced Energy",
-    "id": "deeaad72-264f-48e5-ae2d-8f7438243580",
-    "title": "Service Product Marketing Intern - Global Service Product Marketing",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761935452,
-    "date_posted": 1761646962,
-    "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Service-Product-Marketing-CO-80525/1338068000/?ats=successfactors",
-    "locations": [
-      "Fort Collins, CO"
-    ],
-    "company_url": "https://simplify.jobs/c/Advanced-Energy",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Copart",
-    "id": "158ea50f-5f9a-4604-99fd-502cc5e7cac3",
-    "title": "Technology Product Analyst Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761645618,
-    "date_posted": 1761645618,
-    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR105478",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Copart",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Bloom Energy",
-    "id": "b469c9c9-5f6f-4f35-8cb1-514e24486dda",
-    "title": "Software Engineering Intern - Automation",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761644201,
-    "date_posted": 1761644201,
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Software-Engineering-Intern---Automation_JR-20625",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Bloom-Energy",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Bloom Energy",
-    "id": "8c932ac6-e5fa-46b2-aafe-83fceb4cb382",
-    "title": "Data Science Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761644184,
-    "date_posted": 1761644184,
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Data-Science-Intern_JR-20434",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Bloom-Energy",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
@@ -28001,69 +27327,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Astera Labs",
-    "id": "5b9e82eb-e170-450f-9dfe-62e7281dc8ae",
-    "title": "Platform Applications Engineer Internship",
-    "active": true,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761938359,
-    "date_posted": 1761652420,
-    "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4562833005",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/AsteraLabs",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Astera Labs",
-    "id": "48f368e0-a82e-48d0-bfef-3f23bbaa424d",
-    "title": "DFT Engineer – Internship 2026 - Design for Test",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761652326,
-    "date_posted": 1761652326,
-    "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4605577005",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/AsteraLabs",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Astera Labs",
-    "id": "0e55ff5c-dd34-493c-b226-5e33f582361c",
-    "title": "Digital Design Engineer Internship 2026 - Mixed-signal - DSP",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761933703,
-    "date_posted": 1761652334,
-    "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4617047005",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/AsteraLabs",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Docugami",
     "id": "e6eb833f-8ff9-4da8-98de-2001135f3e0b",
@@ -31942,48 +31205,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Astera Labs",
-    "id": "f075ba21-9bfa-40ec-8559-250fa83d5723",
-    "title": "Semiconductor Packaging Engineer - Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1762820387,
-    "date_posted": 1761652416,
-    "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4605613005",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/AsteraLabs",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Astera Labs",
-    "id": "0df0689e-fbbd-4c36-8d2c-2a3ddce28509",
-    "title": "Product Applications Engineer - Aries",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1762820387,
-    "date_posted": 1761652382,
-    "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4597073005",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/AsteraLabs",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "Product",
     "company_name": "Adobe",
     "id": "ac6e2e8f-b93b-485b-a6bb-2417bf8b913a",
@@ -33206,27 +32427,6 @@
       "McLean, VA"
     ],
     "company_url": "https://simplify.jobs/c/Iridium-Communications",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Cadence Design Systems",
-    "id": "f80dbf03-4f4a-4c3f-a72e-6175d8548c0d",
-    "title": "Intern - Foundry",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762817843,
-    "date_posted": 1761654051,
-    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Summer-Intern--Foundry_R51651-2",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
@@ -40499,48 +39699,6 @@
       "Framingham, MA"
     ],
     "company_url": "https://simplify.jobs/c/Bose",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Astera Labs",
-    "id": "e1958891-b34d-4638-b7dd-20b912fec1d2",
-    "title": "New Product Introduction – /Electrical Product Internship 2026 - Npi",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1762820374,
-    "date_posted": 1761652357,
-    "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4605559005",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/AsteraLabs",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Astera Labs",
-    "id": "bea02f1f-9254-4a85-a4c8-4b36b7c5d3af",
-    "title": "Product Applications Engineer Intern - Scorpio",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1762820382,
-    "date_posted": 1761652397,
-    "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4605552005",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/AsteraLabs",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
@@ -376273,6 +375431,77 @@
       "Chattanooga, TN"
     ],
     "company_url": "https://simplify.jobs/c/6624eec0-5300-4435-a8f4-e88cda773305",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Astera Labs",
+    "id": "c4624142-a4db-48b4-8a37-6d97f1f9ac45",
+    "title": "Design Verification Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1780957640,
+    "date_posted": 1780956664,
+    "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/AsteraLabs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Astera Labs",
+    "id": "1d80a1df-6557-427b-8e92-f3380038cd16",
+    "title": "Firmware Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1780362922,
+    "date_posted": 1780362744,
+    "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/AsteraLabs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Astera Labs",
+    "id": "5b9e82eb-e170-450f-9dfe-62e7281dc8ae",
+    "title": "Platform Applications Engineer Intern Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1779844896,
+    "date_posted": 1779844598,
+    "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4562833005",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/AsteraLabs",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
