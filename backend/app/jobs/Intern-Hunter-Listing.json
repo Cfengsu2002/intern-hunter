@@ -2,52 +2,6 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
-    "company_name": "Biogen",
-    "id": "4517ef9a-577b-4151-bee2-2f9746a160c1",
-    "title": "Co-op – AI Engineer",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761629302,
-    "date_posted": 1761629302,
-    "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Co-op--AI-Engineer_REQ21813",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/Biogen",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TikTok",
-    "id": "759f81ff-30b9-4314-b2eb-7f0a20e57a8f",
-    "title": "Research Scientist Intern - Data-Tns-Algo-Day Dreamer - 2026 Start - PhD",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761633691,
-    "date_posted": 1761633691,
-    "url": "https://lifeattiktok.com/search/7564088059246512389",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
     "company_name": "NTT Data",
     "id": "c35a0e67-4577-4d19-bdeb-2068aa25830d",
     "title": "Data Analytics Intern - ",
@@ -163,30 +117,6 @@
       "San Jose, CA"
     ],
     "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Point72",
-    "id": "ee05696a-aa71-46e3-8b83-5bd6733c2b95",
-    "title": "2026 Spring Internship - MS/PhD Data Scientist - Proprietary Research",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1761640948,
-    "date_posted": 1761640948,
-    "url": "https://boards.greenhouse.io/point72/jobs/8229471002",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Point72",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
@@ -12461,27 +12391,6 @@
   },
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Stantec",
-    "id": "ce309160-d5e9-4c44-837a-b2fcb09c7110",
-    "title": "GIS Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761631632,
-    "date_posted": 1761631632,
-    "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1002781",
-    "locations": [
-      "Wayzata, MN"
-    ],
-    "company_url": "https://simplify.jobs/c/Stantec",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "Software",
     "company_name": "Little Caesars Enterprises",
     "id": "d2825d31-93f6-4d6e-86da-cec91c592e67",
@@ -16069,155 +15978,6 @@
       "San Jose, CA"
     ],
     "company_url": "https://simplify.jobs/c/Bloom-Energy",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Cloudflare",
-    "id": "ea6af880-37f8-4c97-a470-7e342d7104a5",
-    "title": "Research Engineer Intern - Spring/Jan 2026",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1761641221,
-    "date_posted": 1761641221,
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7359143",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Cloudflare",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Quant",
-    "company_name": "American Bankers Association",
-    "id": "1143375c-aced-40cc-8bf6-7d00e3b13f63",
-    "title": "Intern – Quantitative Research Analyst",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761630558,
-    "date_posted": 1761630558,
-    "url": "https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research-Analyst_R544",
-    "locations": [
-      "Washington, DC"
-    ],
-    "company_url": "https://simplify.jobs/c/American-Bankers-Association",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Waymo",
-    "id": "6a52b046-8cb6-43e2-9aea-9729e220ab3e",
-    "title": "2026 Summer Intern - MS/PhD - Compute - Compiler",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761626216,
-    "date_posted": 1761626216,
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=7340164",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Waymo",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Metropolitan Transportation Authority",
-    "id": "fa3f1178-2aa5-4889-b818-0ef54dfafa93",
-    "title": "Data Analyst – Emerging Talent Intern - Automatic Camera Enforcement - Ace",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761703511,
-    "date_posted": 1761625272,
-    "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oUgMyfwe?nl=1&nl=1&fr=false",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "GlobalFoundries",
-    "id": "435a8bce-7cc5-4f90-8f93-868586c769d4",
-    "title": "Failure Analysis Engineering Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761623836,
-    "date_posted": 1761623836,
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Failure-Analysis-Engineering-Intern--Summer-2026-_JR-2502842",
-    "locations": [
-      "Burlington, VT"
-    ],
-    "company_url": "https://simplify.jobs/c/GlobalFoundries",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Nokia",
-    "id": "8843cfa2-0aa5-4add-a022-7e3135c1a13e",
-    "title": "AI R&D Engineering Co-op",
-    "active": false,
-    "terms": [
-      "Winter 2025",
-      "Spring 2025",
-      "Summer 2025"
-    ],
-    "date_updated": 1761623250,
-    "date_posted": 1761623250,
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24943",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Quora",
-    "id": "326806f0-99b5-48a2-9759-73826ea0a195",
-    "title": "Machine Learning Engineer Intern - Poe",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1761865515,
-    "date_posted": 1761622682,
-    "url": "https://jobs.ashbyhq.com/quora/96d36065-2af9-416e-81a9-14406c0a9181/application",
-    "locations": [
-      "Remote in Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Quora",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
@@ -376471,6 +376231,54 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Phamily",
+    "id": "8d2a893d-cc95-4040-b7bb-e75752d54b61",
+    "title": "Business Intelligence & Data Analytics Intern - Undergraduate",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1782350539,
+    "date_posted": 1782350306,
+    "url": "https://job-boards.greenhouse.io/jobsatphamily/jobs/5281446008",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Phamily",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "BCBST",
+    "id": "c9b0dc1b-ff84-4067-91fe-612a60e8aed5",
+    "title": "Provider Data Reporting Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1782367886,
+    "date_posted": 1782367655,
+    "url": "https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Intern---Provider-Data-Reporting_R-49815",
+    "locations": [
+      "Chattanooga, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/6624eec0-5300-4435-a8f4-e88cda773305",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
     ]
   }
 ]
