@@ -202072,7 +202072,7 @@
     "company_name": "KION Group",
     "id": "fe972247-600c-481b-961d-3abad929c277",
     "title": "AI Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -260056,7 +260056,7 @@
     "company_name": "Formlabs",
     "id": "37c6d738-3d93-410b-a82e-6fd883d15498",
     "title": "Test Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -263010,7 +263010,7 @@
     "company_name": "Pennsylvania State University",
     "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
     "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -310106,7 +310106,7 @@
     "company_name": "Double Eleven",
     "id": "25a8a293-3253-46d3-a3ea-1b9cba805bc8",
     "title": "Graphics Programmer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -314186,7 +314186,7 @@
     "company_name": "FHLBank Topeka",
     "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
     "title": "Financial Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -323325,7 +323325,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -323878,7 +323878,7 @@
     "company_name": "Rippling",
     "id": "7df6766d-b43b-464c-a03e-68387c5ffb37",
     "title": "Software Engineer Intern - Backend Focused",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -330512,7 +330512,7 @@
     "company_name": "Pennsylvania State University",
     "id": "df9cfb0a-2665-4639-bfb4-b6b6872f0f82",
     "title": "Research and Development Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -333661,7 +333661,7 @@
     "company_name": "Accenture",
     "id": "a31a57fb-fac6-48d7-922d-fd8a0ed9334d",
     "title": "Technology Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -342288,7 +342288,7 @@
     "company_name": "GE Appliances",
     "id": "8b3a040d-9740-4868-a1c8-672234e74f84",
     "title": "Software Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -342430,7 +342430,7 @@
     "company_name": "Climate Corps",
     "id": "5b74ecb7-7875-4e7a-8482-2baf4c83f1fa",
     "title": "Sustainability Reporting Specialist Fellow",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -347269,7 +347269,7 @@
     "company_name": "Harris Computer",
     "id": "970c3ae9-b47d-4765-baf9-239112cff3a7",
     "title": "AI & Automation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -347693,7 +347693,7 @@
     "company_name": "NVIDIA",
     "id": "49ac286b-0d2a-44df-b39a-c6540778f26a",
     "title": "Performance Engineer Intern - Systems Software",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -348735,5 +348735,148 @@
       "Associate's",
       "Certificate"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "ec539e13-7378-478b-b778-72a9b227541d",
+    "title": "Field Engineer Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783596158,
+    "date_posted": 1783472744,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043150-1",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sentara Health",
+    "id": "534e330d-1ccf-4d74-b28e-3c9a73a7a005",
+    "title": "AI Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783600312,
+    "date_posted": 1783519975,
+    "url": "https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Intern--AI_JR-102248",
+    "locations": [
+      "Virginia Beach, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Sentara-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "CACI",
+    "id": "1bfc9357-5590-4abc-b602-691403283106",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783606233,
+    "date_posted": 1783555200,
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Jessup-MD-US/Software-Engineering-Intern---Fall-2026_328740",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "General Motors",
+    "id": "0d684ec2-3984-474f-89ab-9e7ae0809d1e",
+    "title": "Materials Science Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783606466,
+    "date_posted": 1783375826,
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--Materials-Science---Metallurgical-Engineering_JR-202612790",
+    "locations": [
+      "Warren, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Uber Freight",
+    "id": "51146492-0c25-4e83-b0f2-9bd98505db21",
+    "title": "Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1783608151,
+    "date_posted": 1783607776,
+    "url": "https://job-boards.greenhouse.io/uberfreight/jobs/5194491008",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber-Freight",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Eulerity",
+    "id": "c5e8d6dd-ca17-4cde-89c3-e8da016a78e5",
+    "title": "Digital Marketing Intern - Technical AI & Automation",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1783607624,
+    "date_posted": 1783606645,
+    "url": "https://job-boards.greenhouse.io/eulerity/jobs/4695806006",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Eulerity",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
