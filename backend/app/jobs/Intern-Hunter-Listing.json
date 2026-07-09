@@ -227057,7 +227057,7 @@
     "company_name": "Tencent",
     "id": "e4becf68-5294-4c91-a10c-4626a344f605",
     "title": "Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -301905,7 +301905,7 @@
     "company_name": "Astera",
     "id": "2bf9596e-6416-4fef-8c6d-48ac964d59fa",
     "title": "Computational Neuroscience Intern - Data Analysis and Modeling",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -323878,7 +323878,7 @@
     "company_name": "Rippling",
     "id": "7df6766d-b43b-464c-a03e-68387c5ffb37",
     "title": "Software Engineer Intern - Backend Focused",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -330780,7 +330780,7 @@
     "company_name": "Magna",
     "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
     "title": "Systems Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -342453,7 +342453,7 @@
     "company_name": "Iowa State University",
     "id": "14a709a5-3c90-4741-9cd5-4f72de58c755",
     "title": "Postdoctoral Researcher in Machine Learning and Computational Chemistry",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -347088,7 +347088,7 @@
     "company_name": "GE Healthcare",
     "id": "372d94d1-a83d-44fb-a919-4261fb51f503",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -347182,7 +347182,7 @@
     "company_name": "Blackberry",
     "id": "af9f0a8b-b6df-4358-9834-160d1d0d7a32",
     "title": "QNX Software Developer Co-op - Integration",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -348653,6 +348653,87 @@
       "Bachelor's",
       "Master's",
       "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
+    "title": "Field Service Apprentice",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1783585745,
+    "date_posted": 1783490750,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043000-1",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "22e9a58d-54fd-44b6-ade3-09a5da6a7586",
+    "title": "Field Engineer Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783587541,
+    "date_posted": 1783472744,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042992",
+    "locations": [
+      "Little Rock, AR"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "27cd0b35-4964-4f9e-95d3-2968a5776184",
+    "title": "Field Engineer Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783588734,
+    "date_posted": 1783490748,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043060-1",
+    "locations": [
+      "Chattanooga, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's",
+      "Certificate"
     ]
   }
 ]
