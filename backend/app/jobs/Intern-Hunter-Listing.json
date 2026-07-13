@@ -104450,7 +104450,7 @@
     "company_name": "Wheely",
     "id": "6c648ad7-f6a2-48f0-b056-2315c6a1f377",
     "title": "Associate Product Manager",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -255527,7 +255527,7 @@
     "company_name": "Pennsylvania State University",
     "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
     "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -282683,7 +282683,7 @@
     "company_name": "Regal Rexnord",
     "id": "f1c88e67-8553-477d-8de8-7eb325c1360a",
     "title": "Lab Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -289799,7 +289799,7 @@
     "company_name": "SOTI",
     "id": "572bd542-bdd6-4494-adf5-c3e38316b280",
     "title": "Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -306565,7 +306565,7 @@
     "company_name": "PNC Financial Services",
     "id": "f9a84af2-becf-41f5-a24b-ba28dad12682",
     "title": "Graduate Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -315842,7 +315842,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -316536,7 +316536,7 @@
     "company_name": "Scale AI",
     "id": "10f26a2e-0806-4a95-ab5a-9937df1917fa",
     "title": "AI Builder Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -326767,7 +326767,7 @@
     "company_name": "Magna",
     "id": "5baf8620-6e7e-443a-bab5-755a61362095",
     "title": "Infrared Imaging & Algorithms Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -330047,7 +330047,7 @@
     "company_name": "Copart",
     "id": "26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -335847,7 +335847,7 @@
     "company_name": "Bosch Home Comfort",
     "id": "3e31bf3f-b681-4efa-8ddd-f5586886d019",
     "title": "Foreign Trade Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -336099,7 +336099,7 @@
     "company_name": "Blackstone",
     "id": "25b9a125-ee47-46ff-852e-22fb108b21d6",
     "title": "Blackstone Credit and Insurance – Quant and Portfolio Analytics Summer Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -340233,7 +340233,7 @@
     "company_name": "GE Healthcare",
     "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -341308,7 +341308,7 @@
     "company_name": "CACI",
     "id": "1bfc9357-5590-4abc-b602-691403283106",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -342274,7 +342274,7 @@
     "company_name": "GE Healthcare",
     "id": "d72456b7-6689-4c34-84b3-3f394ad3fb4d",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -342372,7 +342372,7 @@
     "company_name": "GE Healthcare",
     "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
     "title": "Field Service Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -342527,5 +342527,170 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RTX",
+    "id": "4add536b-2385-45cb-a5b4-45157793163e",
+    "title": "Transformation numerique Intern - Digital Transformation",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1783952889,
+    "date_posted": 1783900800,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Automne-2026-Transformation-numerique---Internship---Fall-2026---Digital-Transformation_01852099",
+    "locations": [
+      "Longueuil, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Jump Trading",
+    "id": "f5ed05a7-6060-4e96-b382-c4c74b0268cd",
+    "title": "Campus Quantitative Researcher M1/M2 Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783952814,
+    "date_posted": 1783952381,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=8059384",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "DRW",
+    "id": "c8d12bba-d657-4fe9-8c69-af2f801895a1",
+    "title": "Quantitative Trading Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1783952462,
+    "date_posted": 1783952104,
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/DRW",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jump Trading",
+    "id": "bac0e03e-8c62-41bc-acde-a3fa714f4a66",
+    "title": "Campus Data Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1783952818,
+    "date_posted": 1783952378,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7975008",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "DRW",
+    "id": "210479d3-03b2-4a63-87ed-9c2f0d783379",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1783952462,
+    "date_posted": 1783952107,
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/DRW",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "DRW",
+    "id": "136acc19-04d4-4587-ac2a-23f2cd4c8ba3",
+    "title": "Quantitative Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2028"
+    ],
+    "date_updated": 1783952462,
+    "date_posted": 1783952105,
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/DRW",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "L3Harris Technologies",
+    "id": "4b2e2f45-3126-41ce-9506-f526d2c82376",
+    "title": "SkillBridge Senior Specialist - Product Manager",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1783952496,
+    "date_posted": 1783951521,
+    "url": "https://jobs.l3harris.com/job/Huntsville-(DoW-SkillBridge),-Sr_-Specialist,-Product-Manager-AL-35806-2809/1408154000/?ats=successfactors",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
