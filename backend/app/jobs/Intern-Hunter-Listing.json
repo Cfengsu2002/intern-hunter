@@ -2,132 +2,6 @@
   {
     "source": "Simplify",
     "category": "Software",
-    "company_name": "Altom Transport",
-    "id": "12bfd1e0-a5fd-4ba9-aeaa-10ac3027e5ed",
-    "title": "Software Development Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763363620,
-    "date_posted": 1763363620,
-    "url": "https://apply.workable.com/altom-transport/j/6C00FDED5C/apply",
-    "locations": [
-      "Markham, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/Altom-Transport",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Altom Transport",
-    "id": "5e8c6458-5233-41c8-ab55-9f38615a3acd",
-    "title": "Software Development Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763363621,
-    "date_posted": 1763363621,
-    "url": "https://apply.workable.com/altom-transport/j/04A9461007/apply",
-    "locations": [
-      "Houston, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Altom-Transport",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "St. Jude Children's Research Hospital",
-    "id": "53ade756-4246-41d4-ae05-0e07e5df5d3c",
-    "title": "Intern - Web Software Engineer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763365059,
-    "date_posted": 1763365059,
-    "url": "https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---Web-Software-Engineer--Memphis--TN-_R0010294",
-    "locations": [
-      "Memphis, TN"
-    ],
-    "company_url": "https://simplify.jobs/c/St-Jude-Childrens-Research-Hospital",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "St. Jude Children's Research Hospital",
-    "id": "271b6d3f-76b2-4d91-b3eb-38462b3d6c4b",
-    "title": "Intern - AI Software Engineer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763365063,
-    "date_posted": 1763365063,
-    "url": "https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---AI-Software-Engineer--Memphis--TN-_R0010291",
-    "locations": [
-      "Memphis, TN"
-    ],
-    "company_url": "https://simplify.jobs/c/St-Jude-Childrens-Research-Hospital",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "St. Jude Children's Research Hospital",
-    "id": "d209773a-07f4-478b-b8f5-e17e6cd63776",
-    "title": "Summer Intern - IT",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763365054,
-    "date_posted": 1763365054,
-    "url": "https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---IT_R0010295",
-    "locations": [
-      "Memphis, TN"
-    ],
-    "company_url": "https://simplify.jobs/c/St-Jude-Childrens-Research-Hospital",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "St. Jude Children's Research Hospital",
-    "id": "415e6a8f-fef7-4b33-b9a1-71f82210f5f2",
-    "title": "Summer 2026 Intern - Donor Data Management - Memphis, TN",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763365051,
-    "date_posted": 1763365051,
-    "url": "https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---Donor-Data-Management--Memphis--TN-_R0010323-1",
-    "locations": [
-      "Memphis, TN"
-    ],
-    "company_url": "https://simplify.jobs/c/St-Jude-Childrens-Research-Hospital",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
     "company_name": "RTX",
     "id": "ad677767-79c7-4302-941c-af062424763c",
     "title": "2026 Intern – Software Engineering Intern - CA",
@@ -282962,7 +282836,7 @@
     "company_name": "Tesla",
     "id": "476c1940-e6f7-4c8b-ac8c-d04259a2bac7",
     "title": "Software Engineer Intern - Integration Tools",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -301064,7 +300938,7 @@
     "company_name": "Rocket Lab USA",
     "id": "37998569-3501-402e-baa5-4dcdbf1b7bae",
     "title": "Software Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -318439,7 +318313,7 @@
     "company_name": "VSC Fire & Security",
     "id": "6c7f08b9-bb77-4989-a565-eb4e6b509e7f",
     "title": "Integrated Systems Technician Trainee",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -336473,7 +336347,7 @@
     "company_name": "Rise8",
     "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
     "title": "Skillbridge Intern - Product Manager",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -339204,7 +339078,7 @@
     "company_name": "TDS",
     "id": "2ec22e8c-8004-46f2-943c-b71ca142908f",
     "title": "GIS Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -340245,7 +340119,7 @@
     "company_name": "Autodesk",
     "id": "264ddaa3-5c9c-40c7-b6be-fdb08db1d6a8",
     "title": "AI in Design & Manufacturing Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -344949,6 +344823,29 @@
     "degrees": [
       "Master's",
       "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cloudflare",
+    "id": "7d28754d-98f1-4b89-a78e-ecb4f103ce8b",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784099881,
+    "date_posted": 1784097228,
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8052785",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Cloudflare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
     ]
   }
 ]
