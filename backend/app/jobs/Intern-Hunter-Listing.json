@@ -1,47 +1,5 @@
 [
   {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Red Bull",
-    "id": "1d1ac864-cac4-4703-8198-4651618383e2",
-    "title": "Intern - Academy Performance Analysis",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1763969338,
-    "date_posted": 1763969338,
-    "url": "https://jobs.smartrecruiters.com/RedBull/744000095044055",
-    "locations": [
-      "Livingston, NJ"
-    ],
-    "company_url": "https://simplify.jobs/c/Red-Bull",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "LinkedIn",
-    "id": "45b99e64-32cd-4d59-b80f-e1ea760e36d2",
-    "title": "Software Engineer Intern - First Play",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763968859,
-    "date_posted": 1763968859,
-    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000095054345",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/LinkedIn",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
     "date_updated": 1766399119,
     "sponsorship": "Other",
     "active": false,
@@ -64108,7 +64066,7 @@
     "company_name": "Sierra Nevada Corporation",
     "id": "818b6742-1ac3-4971-a101-50412e68b6f8",
     "title": "Military Fellowship Program: Software Engineer",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -67307,7 +67265,7 @@
     "company_name": "Leggett & Platt",
     "id": "6df90fe0-0a56-42ee-a66e-f1859ede5389",
     "title": "Product Manager Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -288179,7 +288137,7 @@
     "company_name": "Primetals Technologies",
     "id": "8bcfb3f6-ce15-48ea-bde9-874808ef8dba",
     "title": "Data Science Intern - Data Platforms",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -293581,7 +293539,7 @@
     "company_name": "Southern Company",
     "id": "bb12af8d-b281-4c9c-8bfa-7c8821fc31bf",
     "title": "Data Scientist",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -302076,7 +302034,7 @@
     "company_name": "ServiceNow",
     "id": "a321ad73-583a-4203-bee3-a9fe75923346",
     "title": "Futures Summit Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -310724,7 +310682,7 @@
     "company_name": "Seaspan",
     "id": "aad404ae-f5e1-4e23-833b-2011968dc347",
     "title": "Energy Management Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2027",
@@ -320040,7 +319998,7 @@
     "company_name": "Aptiv",
     "id": "58f6524f-2134-4e8e-83e4-975dcef45f99",
     "title": "Associate Engineer - Cloud",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -323678,7 +323636,7 @@
     "company_name": "Zipline",
     "id": "ae07548a-a2c2-42c2-950d-889a02c663bc",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -325099,7 +325057,7 @@
     "company_name": "Eight Sleep",
     "id": "35815487-d699-4826-8eeb-d44f024341ba",
     "title": "Prototype & Test Engineer Intern - New Product Development",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -325306,7 +325264,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "a904747c-0a1b-4b0e-822d-ca3184c2c4b5",
     "title": "Relationship Manager Commercial Markets Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -326561,7 +326519,7 @@
     "company_name": "Rise8",
     "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
     "title": "Skillbridge Intern - Product Manager",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -330859,7 +330817,7 @@
     "company_name": "ABB",
     "id": "dc9a39f7-72fa-452b-8863-2071f8e63489",
     "title": "Application Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -331551,7 +331509,7 @@
     "company_name": "LexisNexis Risk Solutions",
     "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
     "title": "Editorial Data Reporting Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -336350,7 +336308,7 @@
     "company_name": "Solar Turbines",
     "id": "f35a104f-8aa2-4e17-9c25-aec1fe42185e",
     "title": "Gas Turbine Products Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
