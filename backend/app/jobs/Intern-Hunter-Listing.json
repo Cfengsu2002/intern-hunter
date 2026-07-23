@@ -2,72 +2,6 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
-    "company_name": "Zoom",
-    "id": "20128110-990e-42d3-a39e-b4cafed24c95",
-    "title": "AI Research Intern - GenAI & Prototyping",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1764080812,
-    "date_posted": 1764080812,
-    "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/AI-Research-Intern--GenAI---Prototyping-_R17824-1",
-    "locations": [
-      "Seattle, WA",
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Zoom",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Nutanix",
-    "id": "50a4c66c-064e-4609-8f08-7be302f0435d",
-    "title": "Software Engineering Intern - C++ - Linux",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1764079612,
-    "date_posted": 1764079612,
-    "url": "https://jobs.jobvite.com/nutanix/job/ozZfyfw5?nl=1&nl=1&fr=false",
-    "locations": [
-      "Durham, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Nutanix",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "date_updated": 1764088142,
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.baesystems.com/global/en/job/BAE1US118688BREXTERNAL/Software-Intern-Summer-2026",
-    "company_name": "BAE Systems",
-    "title": "Software Intern, Summer 2026",
-    "locations": [
-      "Totowa, NJ"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "e0a1771c-1c61-4ac4-8b5f-a0228b75180b",
-    "date_posted": 1764088142,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
     "company_name": "Central Hudson",
     "id": "d834d2a4-d1da-4621-a786-1f10385e1182",
     "title": "Data Analytics Intern",
@@ -164250,7 +164184,7 @@
     "company_name": "PennState University",
     "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
     "title": "Research and Development Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2026",
       "Fall 2026",
@@ -180413,7 +180347,7 @@
     "company_name": "Tencent",
     "id": "66572abf-79bc-4959-81dc-2d51e16c64a4",
     "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -182868,7 +182802,7 @@
     "company_name": "KION Group",
     "id": "fe972247-600c-481b-961d-3abad929c277",
     "title": "AI Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -256806,7 +256740,7 @@
     "company_name": "Tencent",
     "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
     "title": "Game Research & Development Intern - Engine Research",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -258680,7 +258614,7 @@
     "company_name": "Copart",
     "id": "8a0769fc-4aa4-4b2f-a6e9-d5fcc27c11a6",
     "title": "Technology Product Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -294727,7 +294661,7 @@
     "company_name": "Leidos",
     "id": "675a9412-93b5-472a-b2b3-fb762ddbcc1a",
     "title": "Reports Officer",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -298459,7 +298393,7 @@
     "company_name": "Magna",
     "id": "d700b10f-a687-49f6-bd90-94bd0783aeab",
     "title": "Junior Full Stack Developer Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -298577,7 +298511,7 @@
     "company_name": "Boys Town",
     "id": "d9fcc633-0100-463e-b6d7-1abdfdda5a5f",
     "title": "Artificial Intelligence & Machine Learning Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -304334,7 +304268,7 @@
     "company_name": "Sundt",
     "id": "e2da7772-56e6-49e6-9976-101b2e84a191",
     "title": "Support Group Intern - Artificial Intelligence",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -310655,7 +310589,7 @@
     "company_name": "AMAROK Security",
     "id": "cae7ba56-b661-44a0-ad83-07cbc36b4ca4",
     "title": "Research and Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -315913,7 +315847,7 @@
     "company_name": "Magna",
     "id": "47c8f8b7-82f7-465e-b6ca-9d1565be305c",
     "title": "Software Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -320579,7 +320513,7 @@
     "company_name": "KeyBank",
     "id": "fe57e53f-bdb9-4695-9ea0-f16628645798",
     "title": "Marketing Analytics Analyst Program",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -328119,7 +328053,7 @@
     "company_name": "Schweitzer Engineering Laboratories",
     "id": "c397c573-0849-4481-968f-9dd2b5b1ab87",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2027",
@@ -331527,7 +331461,7 @@
     "company_name": "Adaptive Security",
     "id": "fdcce4dd-7800-4e80-bc0f-fa79d580e58c",
     "title": "AI Product Operations Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -333285,7 +333219,7 @@
     "company_name": "Ignite Digital Services",
     "id": "d7042ff9-73e7-4c5a-bc41-551e7b2533b7",
     "title": "Engineer/Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -334390,7 +334324,7 @@
     "company_name": "Tencent",
     "id": "fbb72559-8ab8-44a7-b199-5fa04ec5a879",
     "title": "Research Intern - Video World Models - Research & ML Systems",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -334960,7 +334894,7 @@
     "company_name": "CAE",
     "id": "5896e523-7da8-4367-a4fd-6569940ba09a",
     "title": "AI Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -335768,7 +335702,7 @@
     "company_name": "Ensemble Health Partners",
     "id": "fe4a0f8c-3de2-411c-8959-9b9893900a52",
     "title": "Engineering Excellence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -339559,7 +339493,7 @@
     "company_name": "Pennsylvania State University",
     "id": "3bf33138-afbc-44cb-bca9-b2c0ad54283a",
     "title": "Research and Development Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026",
       "Summer 2026",
@@ -340379,7 +340313,7 @@
     "company_name": "Hitachi Energy",
     "id": "ddb70cb2-7fcb-4a14-815e-7c1756538921",
     "title": "Engineering Knowledge Management Intern - 8 months",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -340537,7 +340471,7 @@
     "company_name": "Northrop Grumman",
     "id": "a13cbb72-8a90-4b24-83d8-1896547d8948",
     "title": "Associate Simulation Software Engineer / Simulation Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -341460,7 +341394,7 @@
     "company_name": "SS&C",
     "id": "c6d3e347-aaa3-4ae3-a5fc-9feec76b9f77",
     "title": "Healthcare AI & Automation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -342100,7 +342034,7 @@
     "company_name": "T. Rowe Price",
     "id": "fb1333ce-9156-4a30-a89d-92ec4d2b6185",
     "title": "Quantitative Equity Investing Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -342123,7 +342057,7 @@
     "company_name": "T. Rowe Price",
     "id": "911caa98-2914-42a0-82e3-458130b9de36",
     "title": "Technology and Data Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -342374,6 +342308,194 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Becton Dickinson",
+    "id": "44c0f8ab-bc09-4802-ad77-110dc6c77373",
+    "title": "Edge Program Associate - Technology & Global Services - Tgs",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1784815602,
+    "date_posted": 1782781542,
+    "url": "https://bdx.wd1.myworkdayjobs.com/US_EARLY_TALENT_SITE/job/USA-NJ---Franklin-Lakes/Edge-Program-Associate---Technology---Global-Services--TGS-_R-549481",
+    "locations": [
+      "Midland Park, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Brandeis University",
+    "id": "a3cd9446-cca0-47a9-9291-5dc3acdb2622",
+    "title": "Research Assistant - School of Business and Economics",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1784820458,
+    "date_posted": 1784764800,
+    "url": "https://brandeis.wd5.myworkdayjobs.com/en-US/Jobs/job/Brandeis---Waltham-Campus/Temporary-Research-Assistant---School-of-Business-and-Economics--2026_R0013392-1",
+    "locations": [
+      "Waltham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Brandeis-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Copart",
+    "id": "04240fa6-3af0-46bb-9249-23dd4adcfd5c",
+    "title": "Technology Product Analyst Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784819258,
+    "date_posted": 1784764800,
+    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110078",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Copart",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "G-Research",
+    "id": "ff38f8af-bafd-4a27-b65d-e65d625efe50",
+    "title": "Machine Learning Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1784819047,
+    "date_posted": 1784764800,
+    "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/G-Research",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "G-Research",
+    "id": "7b2e0135-b620-4edc-9812-0722d67b163f",
+    "title": "Quantitative Research Internship",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1784819032,
+    "date_posted": 1784764800,
+    "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/G-Research",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "G-Research",
+    "id": "4ca02159-a836-4a7c-86cf-014e77b15a7a",
+    "title": "Natural Language Processing Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1784819041,
+    "date_posted": 1784764800,
+    "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Natural-Language-Processing-Internship_R3686",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/G-Research",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Optiver",
+    "id": "9b96cf35-590b-4fe5-9a32-caf76a2a6a85",
+    "title": "Institutional Trader Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1784822582,
+    "date_posted": 1784816353,
+    "url": "https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Optiver",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "G-Research",
+    "id": "e0f7c410-495b-4e54-8274-9a6d2f191e10",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1784822996,
+    "date_posted": 1784764800,
+    "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/G-Research",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
     ]
   }
 ]
