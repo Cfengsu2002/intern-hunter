@@ -56235,7 +56235,7 @@
     "company_name": "Marsh",
     "id": "61c905e5-2281-4abd-afcc-83089ab79869",
     "title": "Oliver Wyman - Data & Analytics Research Fellowship - Newcastle upon Tyne",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -191181,7 +191181,7 @@
     "company_name": "University of Arkansas",
     "id": "b9bcf351-5da5-411a-9194-d85ff25786a8",
     "title": "Graduate Assistant - Information Science",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -201877,7 +201877,7 @@
     "company_name": "Varda Space",
     "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
     "title": "Mission Software – Intern - Python",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -276165,7 +276165,7 @@
     "company_name": "SOTI",
     "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
     "title": "Data Scientist Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -287571,7 +287571,7 @@
     "company_name": "NVIDIA",
     "id": "d2de708b-89ff-406f-bd7a-70f5d52cf392",
     "title": "PhD Software Engineer Intern - Decision Intelligence",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -299687,7 +299687,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -308210,7 +308210,7 @@
     "company_name": "mthree",
     "id": "6ce4c517-ed15-4308-b1b3-db9ed7be5a53",
     "title": "Technology Talent Programme",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -317691,7 +317691,7 @@
     "company_name": "Netflix",
     "id": "dee128c9-ea09-43a7-b1c8-6ab36d14287e",
     "title": "AI/ML Scientist Intern - AIMS AI Foundations",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -324024,7 +324024,7 @@
     "company_name": "GE Healthcare",
     "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -325050,7 +325050,7 @@
     "company_name": "GE Healthcare",
     "id": "ec539e13-7378-478b-b778-72a9b227541d",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -325842,7 +325842,7 @@
     "company_name": "Jane Street",
     "id": "d7612fa7-5009-43fc-a9d3-8f16c3478eb2",
     "title": "Hardware Engineer - FPGA/Asic",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -326163,7 +326163,7 @@
     "company_name": "GE Healthcare",
     "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
     "title": "Field Service Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -331128,7 +331128,7 @@
     "company_name": "GE Healthcare",
     "id": "c1a4bf61-90df-42b7-8c6c-5b197e81cb7d",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -331155,7 +331155,7 @@
     "company_name": "GE Healthcare",
     "id": "f7eb1ce6-bd5a-46b6-844d-5b28bcebc3a1",
     "title": "Client Service Technician Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -332316,7 +332316,7 @@
     "company_name": "Copart",
     "id": "3c097d8a-920c-4a58-ad96-84d012227d92",
     "title": "Technology Product Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -332881,7 +332881,7 @@
     "company_name": "Cirrus Logic",
     "id": "5a87d599-5c9b-4a61-af5e-84755a75597c",
     "title": "AI Business Analytics Co-op Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -333408,7 +333408,7 @@
     "company_name": "Denari",
     "id": "509af5ea-e34a-4b4c-bace-1d7ffbefc797",
     "title": "Product & Software Internship",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -333861,7 +333861,7 @@
     "company_name": "Gitar, Inc.",
     "id": "53fcaec4-0e49-4a63-94d1-c52a5741cef0",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2025"
     ],
@@ -337951,7 +337951,7 @@
     "company_name": "Jackson",
     "id": "de4c4098-bc68-410c-92e6-503e69580649",
     "title": "Strategic Support Associate - Operations Process Engineer",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -337974,7 +337974,7 @@
     "company_name": "Becton Dickinson",
     "id": "44c0f8ab-bc09-4802-ad77-110dc6c77373",
     "title": "Edge Program Associate - Technology & Global Services - Tgs",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -338863,7 +338863,7 @@
     "company_name": "MSM Inc.",
     "id": "6277e90d-1e91-4b5e-9644-631c6bdaa131",
     "title": "AI Solutions Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -339206,7 +339206,7 @@
     "company_name": "City of Austin",
     "id": "3a2496b3-b945-417b-9b77-f1aecc9a466e",
     "title": "Austin Aviation Undergraduate Intern - IT Business Systems Analyst",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -339414,7 +339414,7 @@
     "company_name": "Pennsylvania State University",
     "id": "cff6c5a6-5c4a-4f30-bb48-4543328cc059",
     "title": "Research Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -339595,7 +339595,7 @@
     "company_name": "Mosaic",
     "id": "e3601b6a-4638-441c-9854-c14ef8a978d7",
     "title": "Operations & Automation Engineering Co-op/Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -339618,7 +339618,7 @@
     "company_name": "American University",
     "id": "a038ee64-00b2-435e-8318-90254ba95b10",
     "title": "Audiovisual Services Assistant - Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -339689,7 +339689,7 @@
     "company_name": "Toshiba Global Commerce",
     "id": "5dc00cee-4e2e-4533-9b44-94c295ffddd4",
     "title": "Agentic Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -339751,5 +339751,26 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Blackberry",
+    "id": "7831a3f0-fe97-450c-8eb6-9ad12ce8c694",
+    "title": "QNX Application Engineering Student",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1785162111,
+    "date_posted": 1785110400,
+    "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/QNX--Application-Engineering-Student_20260267",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BlackBerry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
