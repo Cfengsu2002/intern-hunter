@@ -1,26 +1,5 @@
 [
   {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "KBR",
-    "id": "fdb033ae-3516-431d-928b-6eead2f8c3b0",
-    "title": "Software Application Developer Intern for GOES-R Series Satellites",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764568592,
-    "date_posted": 1764568592,
-    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Silver-Spring-Maryland/Software-Application-Developer-Intern-for-GOES-R-Series-Satellites_R2115543",
-    "locations": [
-      "Silver Spring, MD"
-    ],
-    "company_url": "https://simplify.jobs/c/KBR",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
     "date_updated": 1764858222,
     "sponsorship": "Other",
     "active": false,
@@ -21385,27 +21364,6 @@
       "United States"
     ],
     "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Analog Devices",
-    "id": "bcede76d-8f09-48e9-9f57-2efa9615c700",
-    "title": "Design Evaluation Engineer Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764561385,
-    "date_posted": 1764561385,
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Design-Evaluation-Engineering-Intern--PhD-_R256340",
-    "locations": [
-      "Beaverton, OR"
-    ],
-    "company_url": "https://simplify.jobs/c/Analog-Devices",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
@@ -57545,29 +57503,6 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
-    "company_name": "Morgan Stanley",
-    "id": "10a8315a-069e-4177-a5e0-e546001384bf",
-    "title": "Machine Learning Research Associate Program - PhD",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1764564624,
-    "date_posted": 1764564624,
-    "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Machine-Learning-Research-Associate-Program---PhD_JR020171",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Morgan-Stanley",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
     "company_name": "Centific",
     "id": "0d4aced9-22bc-43d7-b6c8-2a964648b80e",
     "title": "Student Worker",
@@ -74049,7 +73984,7 @@
     "company_name": "GE Appliances",
     "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
     "title": "Software Engineering Co-op Spring 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -212613,7 +212548,7 @@
     "company_name": "University of Wyoming",
     "id": "05a80acf-e9d1-4244-982a-27110bc925ee",
     "title": "Makerspace Aide - UWIN Makerspace Tech - Academic Technology Services",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -298084,7 +298019,7 @@
     "company_name": "Rippling",
     "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
     "title": "Machine Learning Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -298312,7 +298247,7 @@
     "company_name": "Rippling",
     "id": "0d8819e9-06a6-4bf6-9c18-a00012e17263",
     "title": "Full Stack Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -317662,7 +317597,7 @@
     "company_name": "NVIDIA",
     "id": "0317c6ee-8867-463c-899c-dab81eee99b4",
     "title": "PhD Research Intern - System Software and I/O Architecture",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -323817,7 +323752,7 @@
     "company_name": "LexisNexis Risk Solutions",
     "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
     "title": "Editorial Data Reporting Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -331857,7 +331792,7 @@
     "company_name": "SpreeAI ",
     "id": "0b289d87-b4b1-4056-8003-0a76181dcb52",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -332223,7 +332158,7 @@
     "company_name": "LightGuide, Inc.",
     "id": "045f6eba-6e94-4fbc-85c8-1ba3affc21d4",
     "title": "Product Innovation Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -335583,7 +335518,7 @@
     "company_name": "Moog ",
     "id": "bb2699db-c654-4cb9-b4ca-b5140fcb8ee6",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -335654,7 +335589,7 @@
     "company_name": "RSM",
     "id": "176683ad-4f54-4461-9907-17a88c4e7569",
     "title": "Tax Technology Associate",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2027"
     ],
@@ -337988,7 +337923,7 @@
     "company_name": "Blackberry",
     "id": "7831a3f0-fe97-450c-8eb6-9ad12ce8c694",
     "title": "QNX Application Engineering Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -338426,7 +338361,7 @@
     "company_name": "Apptronik",
     "id": "03e27deb-c124-4ce6-9e6c-49eed4353493",
     "title": "Software Engineer Intern - ML Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -339590,7 +339525,7 @@
     "company_name": "Bank of Montreal",
     "id": "f762c709-479e-46fb-9c5a-1a6d1dc19968",
     "title": "Data and AI Operations Analyst Co-op/Internship - Cloud",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -339655,7 +339590,7 @@
     "company_name": "Bank of Montreal",
     "id": "e189179d-efd7-43f6-9072-206e51c3b392",
     "title": "Data and AI Operations Analyst Co-op/Internship - Cloud",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -340043,6 +339978,30 @@
     "degrees": [
       "Bachelor's",
       "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Brunswick",
+    "id": "355b5e1d-f111-47b2-8e17-99593839fef6",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1785305930,
+    "date_posted": 1785196800,
+    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991",
+    "locations": [
+      "Urbana, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Brunswick",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
     ]
   }
 ]
