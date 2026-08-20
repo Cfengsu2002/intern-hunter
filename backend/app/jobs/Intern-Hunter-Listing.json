@@ -1,69 +1,6 @@
 [
   {
     "source": "Simplify",
-    "category": "Software",
-    "company_name": "Oracle",
-    "id": "bd032838-a1e3-490e-936f-57ee6dfdc806",
-    "title": "Cloud Product Release Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766474277,
-    "date_posted": 1766474277,
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/321081",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/Oracle",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Oracle",
-    "id": "25e0cd50-4873-465a-a605-db9e9ca12788",
-    "title": "Advanced Degree Software Engineer Intern - Database Technologies",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766474271,
-    "date_posted": 1766474271,
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/321121",
-    "locations": [
-      "San Carlos, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Oracle",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Entegris",
-    "id": "0ea3ff29-dd31-4034-8794-959d0a992cf8",
-    "title": "Data Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766475037,
-    "date_posted": 1766475037,
-    "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Data-Engineering-Intern---Summer-2026_REQ-9633",
-    "locations": [
-      "Chaska, MN"
-    ],
-    "company_url": "https://simplify.jobs/c/Entegris",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "Hardware",
     "company_name": "Zoox",
     "id": "e9ef886b-7a42-4f41-9d7c-e500a741f4f6",
@@ -4548,27 +4485,6 @@
     "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Research---Development-Intern---Summer-2026_REQ-9615",
     "locations": [
       "San Luis Obispo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Entegris",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Entegris",
-    "id": "439f161f-b806-4c02-ac0e-59b6bd806b54",
-    "title": "Nanoparticle Research Associate Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766475035,
-    "date_posted": 1766475035,
-    "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Nanoparticle-Research-Associate-Intern---Summer-2026_REQ-9634-1",
-    "locations": [
-      "Montgomery, IL"
     ],
     "company_url": "https://simplify.jobs/c/Entegris",
     "is_visible": true,
@@ -76073,7 +75989,7 @@
     "company_name": "ByteDance",
     "id": "d682d247-adfc-4dad-8a92-2194c9d88119",
     "title": "Software Engineer Project Intern - Security Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -140304,7 +140220,7 @@
     "company_name": "Tencent",
     "id": "66572abf-79bc-4959-81dc-2d51e16c64a4",
     "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -140327,7 +140243,7 @@
     "company_name": "Tencent",
     "id": "49ea6477-d2a6-4517-b1db-910fa56415d7",
     "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -223101,7 +223017,7 @@
     "company_name": "Intel",
     "id": "e18b5659-3658-49dd-a554-9ba2b49123a9",
     "title": "AI Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -270474,7 +270390,7 @@
     "company_name": "Intel",
     "id": "438a49bd-1732-4815-b2b2-e048f205949f",
     "title": "AI Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -290707,7 +290623,7 @@
     "company_name": "Citadel",
     "id": "78885859-7ae3-42cc-a2db-f5d8aff6bfc7",
     "title": "Investment & Trading Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -299867,7 +299783,7 @@
     "company_name": "Keysight Technologies",
     "id": "94d15250-b26f-43ee-8091-069b19db76c3",
     "title": "AI/ML Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -325929,7 +325845,7 @@
     "company_name": "InfiniteQuant",
     "id": "d15c2dd4-7288-4110-bf59-550c753167ab",
     "title": "Quantitative Developer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -328702,7 +328618,7 @@
     "company_name": "RTX",
     "id": "dfbe29a3-2c22-426e-9544-2185963e401f",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -329008,7 +328924,7 @@
     "company_name": "Goldman Sachs",
     "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
     "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -329198,7 +329114,7 @@
     "company_name": "Goldman Sachs",
     "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
     "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -331129,7 +331045,7 @@
     "company_name": "General Motors",
     "id": "5539c267-ef6d-41c0-a68d-dcbd5c411ef5",
     "title": "Battery and Sustainability Intern - Battery Research and Development",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -331199,7 +331115,7 @@
     "company_name": "General Motors",
     "id": "1d43fc21-2de6-411c-8141-ec33e8fa8fed",
     "title": "Battery & Sustainability Intern - Battery Research and Development",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -332031,7 +331947,7 @@
     "company_name": "Riveron",
     "id": "6359c80a-9d69-4dcc-9607-0b4506269693",
     "title": "Technology & Innovation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -332401,7 +332317,7 @@
     "company_name": "RTX",
     "id": "40569998-45dc-4119-b2ea-2f11366a604f",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -332541,7 +332457,7 @@
     "company_name": "RTX",
     "id": "df3b11d6-07b6-49f9-a445-97f32c89967e",
     "title": "Software Engineer Intern - Spring 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -333875,7 +333791,7 @@
     "company_name": "Assurant",
     "id": "5e9fd1d4-a28c-46fb-96eb-f4a461df16b8",
     "title": "Digital & AI Transformation Intern 1 - Internship Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -335026,7 +334942,7 @@
     "company_name": "NVIDIA",
     "id": "2698abcf-1f94-40b6-9881-1b14c416262f",
     "title": "Computer Architecture Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -335287,7 +335203,7 @@
     "company_name": "Dedalus",
     "id": "a168d40a-43c6-46f4-ac2d-f1d264740bc3",
     "title": "Software Development Apprentice - Digital Solutions Team",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -335899,7 +335815,7 @@
     "company_name": "Centific",
     "id": "a8814763-abf2-4ca5-ad40-518545962599",
     "title": "Technical Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -336142,7 +336058,7 @@
     "company_name": "Boston Consulting Group",
     "id": "f6f17706-f32e-4624-8175-889945a160e5",
     "title": "Forward Deployed AI Engineer - Campus",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -336225,7 +336141,7 @@
     "company_name": "StudyFetch",
     "id": "179e11a1-a541-4256-a6c3-e36544663802",
     "title": "AI Research Assistant - Machine Learning & AI",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -336613,6 +336529,111 @@
     "sponsorship": "Other",
     "degrees": [
       "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Boston Consulting Group",
+    "id": "08532603-7472-48a9-a825-fef3a7108472",
+    "title": "Forward Deployed AI Scientist",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1787214837,
+    "date_posted": 1787186937,
+    "url": "https://careers.bcg.com/global/en/job/59068",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA",
+      "Washington, DC",
+      "SF",
+      "LA",
+      "Miami, FL",
+      "Dallas, TX",
+      "Chicago, IL",
+      "Pittsburgh, PA",
+      "NYC",
+      "Brooklyn, NY",
+      "Manhattan Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "a908b011-3049-4c5c-831e-b0a4e17ddebf",
+    "title": "Machine Learning Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787217481,
+    "date_posted": 1787217439,
+    "url": "https://lifeattiktok.com/search/7675847556668295429",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "79ddabd2-cd14-4fd6-8aec-f82858b2190e",
+    "title": "Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787217481,
+    "date_posted": 1787217444,
+    "url": "https://lifeattiktok.com/search/7675845333947812149",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "SOCOTEC UK & Ireland",
+    "id": "02476878-55a1-477c-94ee-6d818bddf0af",
+    "title": "Summer Intern - Innovations Team",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1787216581,
+    "date_posted": 1787216581,
+    "url": "https://jobs.smartrecruiters.com/SOCOTECUKIreland/744000144486989",
+    "locations": [
+      "Altrincham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/SOCOTEC-UK-And-Ireland",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
     ]
   }
 ]
