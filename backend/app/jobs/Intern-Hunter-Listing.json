@@ -2,72 +2,6 @@
   {
     "source": "Simplify",
     "category": "Software",
-    "company_name": "Archer",
-    "id": "97c67d11-7750-40ca-bca6-8c9a540741b5",
-    "title": "IOS Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766562033,
-    "date_posted": 1766562033,
-    "url": "https://job-boards.greenhouse.io/archer56/jobs/7565625003",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Archer",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Archer",
-    "id": "193cba01-84fa-45bd-ab80-8d9b48d7a0b7",
-    "title": "AI Research Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766562031,
-    "date_posted": 1766562031,
-    "url": "https://job-boards.greenhouse.io/archer56/jobs/7565626003",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Archer",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Tencent",
-    "id": "67b29de5-f1d6-4d5c-aafe-081ab1a45d9a",
-    "title": "Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language",
-    "active": false,
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "date_updated": 1766559950,
-    "date_posted": 1766559950,
-    "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship--Multimodal-LLM--Speech-Music-Audio-Vision-Language-_R106665-1",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Tencent",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
     "company_name": "Northrop Grumman",
     "id": "182476d6-bbc5-4742-b451-45a2bc54ac7e",
     "title": "Software Engineer Intern",
@@ -261031,7 +260965,7 @@
     "company_name": "Tencent",
     "id": "f083247a-cf19-43ae-8834-7db704881503",
     "title": "Multimedia Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -285285,7 +285219,7 @@
     "company_name": "Figure",
     "id": "84fa7902-5663-4610-8dbc-b43afd8c2691",
     "title": "Special Projects Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -292575,7 +292509,7 @@
     "company_name": "Old Mission",
     "id": "b31743bd-7fcf-42a4-aca1-0e6146dfb105",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -296625,7 +296559,7 @@
     "company_name": "Fluency",
     "id": "9ec02aa1-92f0-4290-9d73-e1fc81c000e6",
     "title": "Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -300015,7 +299949,7 @@
     "company_name": "Warner Bros.",
     "id": "a998ee7a-7f05-482d-82bb-d6e84da94314",
     "title": "Sports Growth Strategy and Data Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -310293,7 +310227,7 @@
     "company_name": "JP Morgan Chase",
     "id": "1bf46509-1ef7-44c8-9af8-cbe0dbe392ff",
     "title": "Data Internship - Data & AI Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -316612,7 +316546,7 @@
     "company_name": "Nokia",
     "id": "ec85ad4d-1542-495a-9e2a-0d122af39e86",
     "title": "AI R&D Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -316684,7 +316618,7 @@
     "company_name": "Nokia",
     "id": "15b0b358-43ff-47d0-9761-4c4a4c29bdb4",
     "title": "AI R&D Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -318930,7 +318864,7 @@
     "company_name": "Cadence Design Systems",
     "id": "40dbbf5f-d4ad-493a-9644-4f4b0662556c",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -326487,7 +326421,7 @@
     "company_name": "RTX",
     "id": "f097b101-bba2-4782-92c8-8b5bf641c43d",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -326511,7 +326445,7 @@
     "company_name": "RTX",
     "id": "cf012f7c-ffe4-475e-ab48-18debac5047e",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -327188,7 +327122,7 @@
     "company_name": "RTX",
     "id": "dfbe29a3-2c22-426e-9544-2185963e401f",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -327212,7 +327146,7 @@
     "company_name": "RTX",
     "id": "d84d3dcb-5e6b-483f-9b73-0653b224ffcd",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -327259,7 +327193,7 @@
     "company_name": "RTX",
     "id": "92c2bfc9-3493-46c6-8ec0-69f9b4225fd4",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -327283,7 +327217,7 @@
     "company_name": "RTX",
     "id": "8fea2128-ad21-47ad-b431-eb973db4321e",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -327426,7 +327360,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -327447,7 +327381,7 @@
     "company_name": "Goldman Sachs",
     "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
     "title": "Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -327468,7 +327402,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -327494,7 +327428,7 @@
     "company_name": "Goldman Sachs",
     "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
     "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -327517,7 +327451,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -327609,7 +327543,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -327635,7 +327569,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -327661,7 +327595,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -327684,7 +327618,7 @@
     "company_name": "Goldman Sachs",
     "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
     "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -327707,7 +327641,7 @@
     "company_name": "Goldman Sachs",
     "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -330979,7 +330913,7 @@
     "company_name": "RTX",
     "id": "061db93c-b043-4913-8dc0-2d36b47609e0",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -332313,7 +332247,7 @@
     "company_name": "RTX",
     "id": "8a917451-91ce-4fdb-ab11-e7564dd99c37",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -334026,7 +333960,7 @@
     "company_name": "RTX",
     "id": "3dc31c45-2bae-4f11-b283-deb7c9854dde",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -334711,7 +334645,7 @@
     "company_name": "StudyFetch",
     "id": "179e11a1-a541-4256-a6c3-e36544663802",
     "title": "AI Research Assistant - Machine Learning & AI",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -335107,7 +335041,7 @@
     "company_name": "Boston Consulting Group",
     "id": "08532603-7472-48a9-a825-fef3a7108472",
     "title": "Forward Deployed AI Scientist",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -337327,6 +337261,302 @@
     "degrees": [
       "Bachelor's",
       "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ontario Teachers' Pension Plan",
+    "id": "deafc16b-b9d8-4b84-b748-2dafcb25b2c7",
+    "title": "Business Insights and Analytics Intern - Member Services",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787294008,
+    "date_posted": 1787270400,
+    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Member-Services--Business-Insights-and-Analytics--January-2027---8-months-_7179",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ontario Teachers' Pension Plan",
+    "id": "c6d37325-22f7-46a7-ab78-d7c0f970628e",
+    "title": "Capital Markets Intern - Quantitative Strategies and Research",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1787294007,
+    "date_posted": 1787270400,
+    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Capital-Markets--Quantitative-Strategies-and-Research--January-2027---4-months-_7167",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ontario Teachers' Pension Plan",
+    "id": "705aa0dc-9caf-4a10-8196-9c201a884e84",
+    "title": "Finance Intern - Risk Analytics",
+    "active": false,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787294010,
+    "date_posted": 1787270400,
+    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Finance--Risk-Analytics--January-2027--8-months-_7145",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ontario Teachers' Pension Plan",
+    "id": "2cdf6089-4c84-4731-8216-3c7ace960f00",
+    "title": "Capital Markets Intern - Quantitative Strategies and Research",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1787294011,
+    "date_posted": 1787270400,
+    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Capital-Markets--Quantitative-Strategies-and-Research--May-2027---4-months-_7168",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Databricks",
+    "id": "1a0df397-2083-456f-9ecb-137eec7603ef",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787294010,
+    "date_posted": 1787293913,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=8732364002",
+    "locations": [
+      "SF",
+      "Bellevue, WA",
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Databricks",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Cubic",
+    "id": "ae5500e9-bf44-4dd7-9a73-6b84de0fb777",
+    "title": "Field Services Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787306318,
+    "date_posted": 1787270400,
+    "url": "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Greenford-Middlesex/Field-Services-Apprentice_REQ_49744",
+    "locations": [
+      "Greenford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Cubic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "892947b6-4cac-464b-941a-7244615e4d0a",
+    "title": "Data Engineer Intern - E-commerce",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1787305862,
+    "date_posted": 1787305806,
+    "url": "https://lifeattiktok.com/search/7676250516494436661",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ontario Teachers' Pension Plan",
+    "id": "563165c9-79ea-427e-a9f7-ac43878f12f6",
+    "title": "Portfolio Engineer Intern - Capital Markets - CMIA",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787305242,
+    "date_posted": 1787270400,
+    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Portfolio-Engineering--Capital-Markets--CMIA--January-2027---8-months-_7193",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Crowe",
+    "id": "440a78fd-1099-4f5d-9384-4cda25b60ab3",
+    "title": "AI Functional Intern",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787306045,
+    "date_posted": 1787097600,
+    "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern---WINTER-2027_R-71015",
+    "locations": [
+      "Lexington, KY",
+      "Boston, MA",
+      "Indianapolis, IN",
+      "Houston, TX",
+      "Louisville, KY",
+      "Knoxville, TN",
+      "Nashville, TN",
+      "Washington, DC",
+      "SF",
+      "Austin, TX",
+      "Cleveland, OH",
+      "LA",
+      "Tampa, FL",
+      "San Jose, CA",
+      "Livingston, NJ",
+      "Grand Rapids, MI",
+      "Miami, FL",
+      "Dallas, TX",
+      "The Woodlands, TX",
+      "Plano, TX",
+      "Chicago, IL",
+      "Tallahassee, FL",
+      "Charlotte, NC",
+      "Fort Lauderdale, FL",
+      "Oakbrook Terrace, IL",
+      "Burlington, VT",
+      "Sacramento, CA",
+      "Columbus, OH",
+      "Hartford, CT",
+      "Springfield, IL",
+      "NYC",
+      "Denver, CO",
+      "Atlanta, GA",
+      "Fort Wayne, IN",
+      "South Bend, IN",
+      "Sarasota, FL",
+      "Costa Mesa, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowe",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Crowe",
+    "id": "6c0e9a46-463c-43dc-8bb1-7b4c40a5ab14",
+    "title": "Power Platform Business Solutions Intern - Consulting Practice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787308561,
+    "date_posted": 1786665600,
+    "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Power-Platform-Business-Solutions-Intern_R-71035",
+    "locations": [
+      "Chicago, IL",
+      "Sacramento, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowe",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "6eed2e3d-bae2-4bba-82dc-8be571a93b1b",
+    "title": "Chemistry Materials Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787310248,
+    "date_posted": 1787184000,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Chemistry-Materials-Engineer-Intern--Onsite-_01868041",
+    "locations": [
+      "Andover, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
     ]
   }
 ]
