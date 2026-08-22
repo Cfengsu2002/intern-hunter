@@ -273707,7 +273707,7 @@
     "company_name": "Marvell",
     "id": "c92c8ffc-48cf-49b7-8c51-6654a293801f",
     "title": "Digital Logic + Design Verification Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -301590,7 +301590,7 @@
     "company_name": "Ambarella",
     "id": "22d08295-47cf-4b31-9064-5548c060a73f",
     "title": "ASIC Design Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -301658,7 +301658,7 @@
     "company_name": "Ambarella",
     "id": "d5dc5d72-f912-436f-8385-faa6dc97d1f4",
     "title": "Verification Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -314216,7 +314216,7 @@
     "company_name": "Louisiana Blue",
     "id": "41322ea3-9446-4196-ad23-37747898216b",
     "title": "Healthcare Price and Transparency Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -315204,7 +315204,7 @@
     "company_name": "Gulf Management",
     "id": "11033c28-f47a-4136-b04c-1449edaa13f8",
     "title": "Software Engineer & Business Systems Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -333727,7 +333727,7 @@
     "company_name": "Moog",
     "id": "12e62286-e256-473b-94dc-c0264f8d5f73",
     "title": "Computer Science Intern - Information Technology",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -338663,7 +338663,7 @@
     "company_name": "Hoffman Construction",
     "id": "996bb2aa-8608-46f5-9ac0-4b1da474799f",
     "title": "Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -338674,6 +338674,220 @@
       "Boise, ID"
     ],
     "company_url": "https://simplify.jobs/c/Hoffman-Construction",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "b9776d83-bf68-42d9-88e2-4ebdd4ffda09",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787361661,
+    "date_posted": 1787361563,
+    "url": "https://lifeattiktok.com/search/7676276048527214901",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "TikTok",
+    "id": "7fff5796-fc88-4d04-a6fa-be35e0bdb2e0",
+    "title": "AI Product Manager Intern - Product Social",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787361661,
+    "date_posted": 1787361563,
+    "url": "https://lifeattiktok.com/search/7675616554318596357",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "TikTok",
+    "id": "3085d453-c413-4fb3-9fc6-7da1855ee4f1",
+    "title": "Product Manager Intern - Content and Service Ads",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787361661,
+    "date_posted": 1787361562,
+    "url": "https://lifeattiktok.com/search/7676283436713593093",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "MBA"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RTX",
+    "id": "f96bb586-5dba-40b3-ad65-08b6decf9934",
+    "title": "Repair & Overhaul Intern",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787361347,
+    "date_posted": 1787270400,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Stage-Hiver-2027---Groupe-Solutions-Client--Rparation-et-Rvision-----Internship-Winter-2027---Repair---Overhaul-Customer-Solutions-Group-_01867393",
+    "locations": [
+      "Saint-Hubert, Longueuil, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Mercor",
+    "id": "fe6e435e-7b34-41cb-b526-98f990b943ad",
+    "title": "Research Fellowship - Apex",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1787366397,
+    "date_posted": 1787366199,
+    "url": "https://jobs.ashbyhq.com/mercor/a0a98be0-d856-4129-b500-c0a3e412ef01/application?embed=true",
+    "locations": [
+      "London, UK",
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Mercor",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Microsoft",
+    "id": "6245b5b1-9a7d-4d30-aabb-19a2cedbde40",
+    "title": "AI Software Engineer Intern - Edge",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787366400,
+    "date_posted": 1787366266,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+    "locations": [
+      "Redmond, WA",
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Elevate Semiconductor",
+    "id": "9d5887c5-a484-493a-a9cd-38e0b51c1ef6",
+    "title": "Product Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787366245,
+    "date_posted": 1787366024,
+    "url": "https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Elevate-Semiconductor",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Micron Technology",
+    "id": "9ad13c92-e5d2-4c4c-987a-f3263f2dd707",
+    "title": "Yield Enhancement Intern - Data Analysis",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787366252,
+    "date_posted": 1787270400,
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Yield-Enhancement--Data-Analysis_JR109076",
+    "locations": [
+      "Boise, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/Micron-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ecolab",
+    "id": "a9777bd4-5efc-4a60-a627-f2e6cfabbfcf",
+    "title": "Digital & AI Technology Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787365981,
+    "date_posted": 1787270400,
+    "url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249",
+    "locations": [
+      "Naperville, IL",
+      "Eagan, MN",
+      "St Paul, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Ecolab",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
