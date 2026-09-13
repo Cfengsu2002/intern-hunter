@@ -1,136 +1,6 @@
 [
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Thales",
-    "id": "2f708367-3ef7-4287-8135-c4cd0d36cd3b",
-    "title": "2026 Engineering Student Placement - Digital Industry",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1768567862,
-    "date_posted": 1768567862,
-    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Belfast/XMLNAME-2026-Engineering-Student-Placement--Digital-Industry-_R0310129",
-    "locations": [
-      "Belfast, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Thales",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "RWS",
-    "id": "1c4d8d25-46e8-4ab2-9cf7-6dc05d6ec04a",
-    "title": "AI Data Specialist - Georgia - US",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1768576745,
-    "date_posted": 1768576745,
-    "url": "https://jobs.lever.co/rws/d5edfc8c-508f-496b-964e-66077dfcb995/apply",
-    "locations": [
-      "Georgia"
-    ],
-    "company_url": "https://simplify.jobs/c/RWS",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Leidos",
-    "id": "d1f151e0-ee6a-4b52-b2a5-bec1b4189d64",
-    "title": "Computer Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1768577409,
-    "date_posted": 1768577409,
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Computer-Engineer-Intern_R-00173780",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "company_url": "https://simplify.jobs/c/Leidos",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Crest Industries",
-    "id": "80acc05b-395b-4882-b898-4b6f84b3a4ed",
-    "title": "CIS/CS Internship",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1768576491,
-    "date_posted": 1768576491,
-    "url": "https://jobs.lever.co/crestoperations/234d5be4-a214-4568-a681-d60f15624488/apply",
-    "locations": [
-      "Alexandria, LA"
-    ],
-    "company_url": "https://simplify.jobs/c/Crest-Industries",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "RWS",
-    "id": "b8f208d0-ac14-4f0c-8f7f-7dc99da51af8",
-    "title": "AI Data Specialist - Pennsylvania - US",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1768576774,
-    "date_posted": 1768576774,
-    "url": "https://jobs.lever.co/rws/8c3faf84-1979-495f-839d-888abfc007ce/apply",
-    "locations": [
-      "Pennsylvania"
-    ],
-    "company_url": "https://simplify.jobs/c/RWS",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "RWS",
-    "id": "aa42f4fa-9a75-46d4-b15c-9edf6678d943",
-    "title": "AI Data Specialist - Texas - US",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1768576743,
-    "date_posted": 1768576743,
-    "url": "https://jobs.lever.co/rws/edfded6a-6a93-49cd-9b50-d0f74c3a41ac/apply",
-    "locations": [
-      "Texas"
-    ],
-    "company_url": "https://simplify.jobs/c/RWS",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "Hardware",
     "company_name": "Magna",
     "id": "058ae430-fba4-43bc-b9cb-a34de717dcc8",
@@ -3274,27 +3144,6 @@
     "degrees": [
       "Bachelor's"
     ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "RWS",
-    "id": "541197e0-f803-4beb-82ce-1b7603da2e34",
-    "title": "AI Data Specialist - US",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1768902880,
-    "date_posted": 1768576737,
-    "url": "https://jobs.lever.co/rws/b94322e4-11a0-4515-9c2c-461ee66d0d47/apply",
-    "locations": [
-      "Oklahoma City, OK"
-    ],
-    "company_url": "https://simplify.jobs/c/RWS",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
   },
   {
     "source": "Simplify",
@@ -301843,7 +301692,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -301941,7 +301790,7 @@
     "company_name": "Goldman Sachs",
     "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -307721,7 +307570,7 @@
     "company_name": "NVIDIA",
     "id": "3affcaac-d7f9-45d1-8139-19defc762e13",
     "title": "Deep Learning Computer Architecture Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -309494,7 +309343,7 @@
     "company_name": "Goldman Sachs",
     "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
     "title": "Summer Analyst Intern - Americas - AWM Product Management",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -351366,7 +351215,7 @@
     "company_name": "Tesla",
     "id": "c5562522-fdf2-43a1-b6e1-2b11a8e48969",
     "title": "Systems Architecture & Integration Engineer Intern - LV Architecture",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Spring 2027"
@@ -352577,7 +352426,7 @@
     "company_name": "Nio",
     "id": "da434a40-5732-4900-855f-676aa5cd10e7",
     "title": "AI Robotics Researcher Intern - Dexterous Manipulation",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -357565,7 +357414,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -357588,7 +357437,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -357634,7 +357483,7 @@
     "company_name": "Goldman Sachs",
     "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
     "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -357765,7 +357614,7 @@
     "company_name": "Goldman Sachs",
     "id": "8f346a45-4490-4243-933e-264e3916e701",
     "title": "Summer Analyst Intern - Americas - Engineering",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
