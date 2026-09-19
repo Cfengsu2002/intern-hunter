@@ -1,180 +1,6 @@
 [
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Cadence Design Systems",
-    "id": "ea110c94-fea5-4fe5-afd5-fbc3d8e2e9c7",
-    "title": "Intern Scientific Developer",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769097044,
-    "date_posted": 1769097044,
-    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SANTA-FE-01/Intern---Scientific-Developer--Affinity_R52859-1",
-    "locations": [
-      "Santa Fe, NM"
-    ],
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Northrop Grumman",
-    "id": "2816db46-e31a-4362-a4b5-65ca8fcf989c",
-    "title": "Associate / Flight Software Engineer - Flight Software Engineers",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1769097023,
-    "date_posted": 1769097023,
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Associate---Flight-Software-Engineer_R10220248",
-    "locations": [
-      "Dulles, VA"
-    ],
-    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Cadence Design Systems",
-    "id": "0e149dca-3d44-4d8d-a824-810079e9de9f",
-    "title": "Intern Scientific Developer - Target Exploration",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769097043,
-    "date_posted": 1769097043,
-    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SANTA-FE-01/Intern--Scientific-Developer--Target-Exploration_R52858-2",
-    "locations": [
-      "Santa Fe, NM"
-    ],
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "GlossGenius",
-    "id": "d37bce52-2f1b-4e76-8fef-1c78429cf6a5",
-    "title": "Engineering Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1769096536,
-    "date_posted": 1769096536,
-    "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7600548003",
-    "locations": [
-      "SF"
-    ],
-    "company_url": "https://simplify.jobs/c/GlossGenius",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Cadence Design Systems",
-    "id": "90469cdd-906b-4695-b935-cc5633e84c64",
-    "title": "Intern Scientific Developer - Target Exploration",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769096568,
-    "date_posted": 1769096568,
-    "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SANTA-FE-01/Intern--Scientific-Developer--Target-Exploration_R52858-1",
-    "locations": [
-      "Santa Fe, NM"
-    ],
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Cadence Design Systems",
-    "id": "7025c64e-9746-4a78-b90c-5664f45770db",
-    "title": "Intern Scientific Developer",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769096580,
-    "date_posted": 1769096580,
-    "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SANTA-FE-01/Intern---Scientific-Developer--Affinity_R52859",
-    "locations": [
-      "Santa Fe, NM"
-    ],
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Cadence Design Systems",
-    "id": "48753ec3-28ad-47f5-94a4-d1902e8a4ccd",
-    "title": "Intern – Scientific Developer - Affinity",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769096682,
-    "date_posted": 1769096682,
-    "url": "https://cadence.wd1.myworkdayjobs.com/OpenEye_Careers/job/SANTA-FE-01/Intern---Scientific-Developer--Affinity_R52859-3",
-    "locations": [
-      "Santa Fe, NM"
-    ],
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Aptiv",
-    "id": "6f0c91e2-4ad9-44f9-b643-2bd6a8936b29",
-    "title": "Software Engineering Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769096188,
-    "date_posted": 1769096188,
-    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Engineering-Intern_J000685568",
-    "locations": [
-      "Troy, MI"
-    ],
-    "company_url": "https://simplify.jobs/c/Aptiv",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "Product",
     "company_name": "NRG Energy",
     "id": "7ed6ed63-cba7-494f-82f3-eb6111cdff3c",
@@ -130257,7 +130083,7 @@
     "company_name": "Hippocratic AI",
     "id": "8d8d890a-4546-432f-a432-8353aa4bbb73",
     "title": "Agent Deployment Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -357710,7 +357536,7 @@
     "company_name": "Marvell",
     "id": "185a7671-20a9-4d9b-b2d1-54fcd0ec81d1",
     "title": "Reliability Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -358551,7 +358377,7 @@
     "company_name": "Marvell",
     "id": "e9a597c0-36ab-4bb4-879e-5c857a826fff",
     "title": "Reliability Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
