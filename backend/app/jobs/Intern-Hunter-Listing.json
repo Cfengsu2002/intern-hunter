@@ -208074,7 +208074,7 @@
     "company_name": "Atoms",
     "id": "5379a4df-fa7a-4799-8978-00d1844415b9",
     "title": "Software Engineer Intern - Winter 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -233763,7 +233763,7 @@
     "company_name": "RTX",
     "id": "156e5e79-8f49-4e7b-bea1-7c52e9b98f85",
     "title": "Customer First Centre Intern - Customer First Centre - Technical Helpdesk",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -236152,7 +236152,7 @@
     "company_name": "Compeer Financial",
     "id": "6fa663cd-1579-4517-8525-ab4243d205b9",
     "title": "Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -236176,7 +236176,7 @@
     "company_name": "Compeer Financial",
     "id": "4ade01ff-90f7-40e7-88aa-1756bc4d6de1",
     "title": "Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -244660,7 +244660,7 @@
     "company_name": "Qorvo",
     "id": "056e0096-9f6b-4c3a-844f-cd627807e7f6",
     "title": "Full-Stack Web Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -284311,7 +284311,7 @@
     "company_name": "Loblaw Companies",
     "id": "6fa97316-f38b-4160-be60-aed1cd83b249",
     "title": "Analyst Co-op Student - Product Information Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -298192,7 +298192,7 @@
     "company_name": "Target",
     "id": "8ee871d8-4385-49e0-9f0d-1f89f3ed0863",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -313470,7 +313470,7 @@
     "company_name": "Hometap",
     "id": "c5436868-7e21-49cc-a04a-94724650c511",
     "title": "Full Stack Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -318552,7 +318552,7 @@
     "company_name": "Waymo",
     "id": "3401f1fc-ebd7-4153-b9b5-359896f63953",
     "title": "Software Engineer Intern - MS/PhD",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -318576,7 +318576,7 @@
     "company_name": "Schonfeld",
     "id": "22788572-42f5-4949-95ac-5b883dbb7696",
     "title": "Quant Developer Intern - Discretionary Macro Fixed Income",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -323791,7 +323791,7 @@
     "company_name": "Invesco",
     "id": "6f8f96a9-1d7a-4068-b399-2e3d6e8adf77",
     "title": "Early Career Intern - Private Markets Product",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -341996,7 +341996,7 @@
     "company_name": "Radiance Technologies",
     "id": "20e60473-ab0b-483d-8db0-683b9665e97c",
     "title": "Modeling Engineer Intern - Analytics & Simulation Sciences - Mass",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -357733,7 +357733,7 @@
     "company_name": "Magna",
     "id": "6ee40dfa-8c4e-43ab-a8a5-e92008f5a2c7",
     "title": "Humanoid Robotics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -359166,7 +359166,7 @@
     "company_name": "University of Maryland - College Park",
     "id": "66ef2704-3037-40ab-ac97-ad086c4309af",
     "title": "AI Research Assistant Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -362875,7 +362875,7 @@
     "company_name": "LexisNexis Risk Solutions",
     "id": "0173534b-1a00-43bf-8929-2a7c5bfa842d",
     "title": "Data Science Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -364914,7 +364914,7 @@
     "company_name": "KKR",
     "id": "4e1207ba-ae8a-45e8-a367-c9a90e575587",
     "title": "Summer Analyst Intern - Insurance Risk - Quantitative Asset Liability Management/Liquidity Risk",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -366726,7 +366726,7 @@
     "company_name": "KKR",
     "id": "50597a72-b855-4e2f-a7fe-130439c9ff69",
     "title": "Summer Analyst Intern - Insurance Risk - Data Science",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -370869,7 +370869,7 @@
     "company_name": "Booz Allen",
     "id": "74c29392-8eab-44f0-a1ae-0bb1d66ec96f",
     "title": "Junior AI Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -385178,7 +385178,7 @@
     "company_name": "Chanel",
     "id": "28a00640-d571-438a-99ab-ba1fbf92f74e",
     "title": "Finance and ESG Performance Management Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -390485,7 +390485,7 @@
     "company_name": "Texas Instruments",
     "id": "1a27a280-38f3-4db8-a51f-1be2dfd0f0f5",
     "title": "Device Reliability Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -396366,7 +396366,7 @@
     "company_name": "Rogue Fitness",
     "id": "4f25a257-64eb-4345-9093-29d28e199773",
     "title": "AI Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -397548,7 +397548,7 @@
     "company_name": "Scale AI",
     "id": "41101dfb-9fa5-4eac-b1cf-f6c93e3c3f48",
     "title": "Safety Research Scholar Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -401255,7 +401255,7 @@
     "company_name": "Tencent",
     "id": "1d865eec-b857-4988-911b-f70dacd13ca6",
     "title": "LLM & Agent Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -401279,7 +401279,7 @@
     "company_name": "Apple",
     "id": "fc7e57ed-e4b3-4658-b094-842e4a64636a",
     "title": "Machine Learning Research Intern - Speech-to-Speech Translation",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -401899,7 +401899,7 @@
     "company_name": "Bank of Montreal",
     "id": "424885bf-4524-42f8-aae0-88ebf8504142",
     "title": "Data & AI Analyst Co-op Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -403311,7 +403311,7 @@
     "company_name": "Crusoe",
     "id": "fd1af9f8-2356-4f0f-b005-ab9f523e4e24",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
